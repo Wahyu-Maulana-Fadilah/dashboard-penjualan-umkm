@@ -1,0 +1,1001 @@
+Invoice_ID,Tanggal,Nama_Produk,Kategori,Jumlah_Terjual,Harga_Satuan,Total_Penjualan,Metode_Pembayaran,Channel_Penjualan,Nama_Pelanggan,Wilayah
+INV-1001,2024-01-01,Seblak Instan,Makanan,1,15500,15500,Transfer Bank,Shopee,"Vanya Nashiruddin, S.Pd",Bekasi Timur
+INV-1002,2024-01-01,Keripik Pisang,Snack,2,12500,25000,QRIS,Offline Store,Rini Januar,Pondok Gede
+INV-1003,2024-01-01,Jus Alpukat,Minuman,1,18500,18500,QRIS,Shopee,Zulaikha Jailani,Pondok Gede
+INV-1004,2024-01-01,Es Kopi Susu,Minuman,9,22500,202500,QRIS,Offline Store,"Hana Tampubolon, M.Pd",Pondok Gede
+INV-1005,2024-01-01,Es Kopi Susu,Minuman,9,22500,202500,Transfer Bank,Instagram,Eja Sinaga,Jatibening
+INV-1006,2024-01-01,Thai Tea,Minuman,5,20500,102500,Transfer Bank,Instagram,Dinda Sitorus,Jatibening
+INV-1007,2024-01-01,Rice Bowl Ayam,Makanan,5,30500,152500,Transfer Bank,WhatsApp,Slamet Nababan,Depok
+INV-1008,2024-01-01,Seblak Instan,Makanan,2,15500,31000,QRIS,WhatsApp,"Rahmi Narpati, S.E.I",Pondok Gede
+INV-1009,2024-01-01,Rice Bowl Ayam,Makanan,10,30500,305000,QRIS,Instagram,Nadine Puspasari,Jatiasih
+INV-1010,2024-01-01,Makaroni Pedas,Snack,2,10500,21000,QRIS,Offline Store,Yessi Latupono,Pondok Gede
+INV-1011,2024-01-01,Dimsum Ayam,Makanan,10,25500,255000,Transfer Bank,Tokopedia,Cakrabirawa Novitasari,Pondok Gede
+INV-1012,2024-01-01,Bakso Aci Frozen,Makanan,4,18500,74000,QRIS,Shopee,Sutan Opung Suartini,Bekasi Barat
+INV-1013,2024-01-01,Seblak Instan,Makanan,7,15500,108500,E-Wallet,WhatsApp,Jumari Iswahyudi,Pondok Gede
+INV-1014,2024-01-01,Keripik Pisang,Snack,6,12500,75000,Transfer Bank,WhatsApp,T. Balangga Yuliarti,Pondok Gede
+INV-1015,2024-01-01,Seblak Instan,Makanan,10,15500,155000,Transfer Bank,Shopee,Taufan Halim,Bekasi Timur
+INV-1016,2024-01-02,Jus Alpukat,Minuman,5,18500,92500,Transfer Bank,WhatsApp,"Puti Gawati Marbun, S.Pt",Bekasi Barat
+INV-1017,2024-01-02,Bakso Aci Frozen,Makanan,4,18500,74000,Cash,Instagram,"Ibrani Gunawan, M.TI.",Pondok Gede
+INV-1018,2024-01-02,Dimsum Ayam,Makanan,2,25500,51000,Cash,Shopee,Kiandra Hidayat,Bekasi Timur
+INV-1019,2024-01-02,Brownies Kukus,Kue,7,35500,248500,Transfer Bank,WhatsApp,Amelia Wibowo,Jatiwaringin
+INV-1020,2024-01-02,Keripik Pisang,Snack,4,12500,50000,Cash,Offline Store,"KH. Karya Napitupulu, S.Gz",Pondok Gede
+INV-1021,2024-01-02,Jus Alpukat,Minuman,10,18500,185000,Cash,Shopee,Kajen Wijaya,Jatiwaringin
+INV-1022,2024-01-02,Keripik Pisang,Snack,9,12500,112500,QRIS,Tokopedia,"Michelle Tampubolon, S.Kom",Jatibening
+INV-1023,2024-01-02,Seblak Instan,Makanan,3,15500,46500,E-Wallet,Offline Store,drg. Mariadi Safitri,Jatiasih
+INV-1024,2024-01-02,Seblak Instan,Makanan,7,15500,108500,E-Wallet,Offline Store,"Maida Purnawati, S.Farm",Pondok Gede
+INV-1025,2024-01-02,Dimsum Ayam,Makanan,9,25500,229500,QRIS,Offline Store,Harjo Situmorang,Jakarta Timur
+INV-1026,2024-01-02,Dimsum Ayam,Makanan,6,25500,153000,Cash,Instagram,Sabrina Mangunsong,Jatiasih
+INV-1027,2024-01-02,Keripik Pisang,Snack,8,12500,100000,Cash,Offline Store,dr. Muni Hartati,Pondok Gede
+INV-1028,2024-01-03,Makaroni Pedas,Snack,2,10500,21000,Transfer Bank,Shopee,R.A. Clara Thamrin,Pondok Gede
+INV-1029,2024-01-03,Rice Bowl Ayam,Makanan,3,30500,91500,QRIS,Offline Store,Mumpuni Laksmiwati,Cibubur
+INV-1030,2024-01-03,Rice Bowl Ayam,Makanan,8,30500,244000,QRIS,WhatsApp,Cagak Hartati,Bekasi Timur
+INV-1031,2024-01-03,Dimsum Ayam,Makanan,4,25500,102000,Transfer Bank,Offline Store,"Dalima Pranowo, S.Ked",Jatiwaringin
+INV-1032,2024-01-03,Seblak Instan,Makanan,2,15500,31000,QRIS,Offline Store,Ir. Laila Utama,Jatibening
+INV-1033,2024-01-03,Keripik Pisang,Snack,3,12500,37500,Transfer Bank,WhatsApp,Laila Santoso,Bekasi Barat
+INV-1034,2024-01-03,Makaroni Pedas,Snack,10,10500,105000,Transfer Bank,Offline Store,Purwanto Pangestu,Bekasi Selatan
+INV-1035,2024-01-04,Dimsum Ayam,Makanan,7,25500,178500,E-Wallet,Offline Store,T. Bajragin Nashiruddin,Jatiasih
+INV-1036,2024-01-04,Brownies Kukus,Kue,2,35500,71000,Transfer Bank,Tokopedia,Tgk. Paulin Zulkarnain,Bekasi Barat
+INV-1037,2024-01-04,Rice Bowl Ayam,Makanan,1,30500,30500,Transfer Bank,Offline Store,"KH. Oskar Gunarto, S.E.",Cibubur
+INV-1038,2024-01-04,Es Kopi Susu,Minuman,1,22500,22500,QRIS,Shopee,Olivia Kusumo,Bekasi Timur
+INV-1039,2024-01-04,Seblak Instan,Makanan,1,15500,15500,QRIS,Offline Store,Cut Gabriella Purnawati,Cibubur
+INV-1040,2024-01-04,Es Kopi Susu,Minuman,5,22500,112500,Transfer Bank,Offline Store,Uli Hutasoit,Bekasi Timur
+INV-1041,2024-01-04,Keripik Pisang,Snack,10,12500,125000,E-Wallet,Shopee,R. Umaya Wijaya,Jatibening
+INV-1042,2024-01-04,Brownies Kukus,Kue,7,35500,248500,QRIS,Tokopedia,Drs. Gamanto Budiman,Pondok Gede
+INV-1043,2024-01-05,Jus Alpukat,Minuman,6,18500,111000,E-Wallet,Instagram,Darman Usada,Pondok Gede
+INV-1044,2024-01-05,Bakso Aci Frozen,Makanan,2,18500,37000,E-Wallet,WhatsApp,dr. Mila Wahyudin,Pondok Gede
+INV-1045,2024-01-05,Seblak Instan,Makanan,4,15500,62000,Transfer Bank,Offline Store,Prima Wastuti,Pondok Gede
+INV-1046,2024-01-05,Brownies Kukus,Kue,3,35500,106500,Transfer Bank,WhatsApp,Gasti Maulana,Pondok Gede
+INV-1047,2024-01-05,Brownies Kukus,Kue,4,35500,142000,E-Wallet,Offline Store,Marsito Nainggolan,Pondok Gede
+INV-1048,2024-01-05,Seblak Instan,Makanan,1,15500,15500,QRIS,Tokopedia,Carla Rahimah,Pondok Gede
+INV-1049,2024-01-05,Es Kopi Susu,Minuman,3,22500,67500,E-Wallet,Instagram,Wadi Mardhiyah,Bekasi Timur
+INV-1050,2024-01-05,Es Kopi Susu,Minuman,7,22500,157500,Transfer Bank,Instagram,"Ir. Ajimat Sudiati, M.Ak",Jatiasih
+INV-1051,2024-01-05,Bakso Aci Frozen,Makanan,7,18500,129500,E-Wallet,WhatsApp,"Belinda Maheswara, S.E.",Jatiasih
+INV-1052,2024-01-05,Jus Alpukat,Minuman,9,18500,166500,Transfer Bank,Shopee,"Wani Rahimah, M.TI.",Pondok Gede
+INV-1053,2024-01-05,Dimsum Ayam,Makanan,4,25500,102000,QRIS,WhatsApp,"Darmaji Nababan, S.E.I",Pondok Gede
+INV-1054,2024-01-05,Bakso Aci Frozen,Makanan,1,18500,18500,E-Wallet,Offline Store,Drs. Rendy Wahyuni,Jakarta Timur
+INV-1055,2024-01-05,Makaroni Pedas,Snack,3,10500,31500,QRIS,Shopee,Ir. Banara Halimah,Bekasi Timur
+INV-1056,2024-01-05,Seblak Instan,Makanan,10,15500,155000,Transfer Bank,Instagram,"Nadia Natsir, S.Kom",Bekasi Timur
+INV-1057,2024-01-05,Seblak Instan,Makanan,10,15500,155000,QRIS,Offline Store,Victoria Marbun,Pondok Gede
+INV-1058,2024-01-06,Jus Alpukat,Minuman,10,18500,185000,Cash,WhatsApp,Cinthia Laksita,Jatibening
+INV-1059,2024-01-06,Es Kopi Susu,Minuman,6,22500,135000,Cash,Instagram,"Narji Widiastuti, S.E.I",Pondok Gede
+INV-1060,2024-01-06,Keripik Pisang,Snack,5,12500,62500,Cash,Tokopedia,Sutan Bakda Hakim,Jatiasih
+INV-1061,2024-01-06,Bakso Aci Frozen,Makanan,8,18500,148000,QRIS,Tokopedia,Ami Hakim,Bekasi Selatan
+INV-1062,2024-01-06,Makaroni Pedas,Snack,4,10500,42000,Cash,Shopee,Tgk. Ega Suartini,Bekasi Timur
+INV-1063,2024-01-06,Rice Bowl Ayam,Makanan,2,30500,61000,Cash,WhatsApp,Puti Rahimah,Bekasi Barat
+INV-1064,2024-01-07,Brownies Kukus,Kue,9,35500,319500,QRIS,Offline Store,Malik Marpaung,Jatibening
+INV-1065,2024-01-07,Dimsum Ayam,Makanan,2,25500,51000,Cash,Tokopedia,drg. Patricia Puspita,Cibubur
+INV-1066,2024-01-07,Seblak Instan,Makanan,9,15500,139500,Cash,WhatsApp,Mahfud Hidayanto,Jatiwaringin
+INV-1067,2024-01-07,Thai Tea,Minuman,4,20500,82000,Transfer Bank,WhatsApp,Gangsar Hartati,Pondok Gede
+INV-1068,2024-01-07,Makaroni Pedas,Snack,8,10500,84000,QRIS,Tokopedia,"Cemeti Wulandari, S.T.",Pondok Gede
+INV-1069,2024-01-07,Jus Alpukat,Minuman,5,18500,92500,QRIS,WhatsApp,Daryani Prasetya,Jatiasih
+INV-1070,2024-01-07,Keripik Pisang,Snack,5,12500,62500,E-Wallet,Offline Store,Nadine Namaga,Pondok Gede
+INV-1071,2024-01-08,Makaroni Pedas,Snack,1,10500,10500,QRIS,Shopee,drg. Kenzie Budiyanto,Pondok Gede
+INV-1072,2024-01-08,Makaroni Pedas,Snack,1,10500,10500,Transfer Bank,Instagram,Hamima Hakim,Jakarta Timur
+INV-1073,2024-01-08,Keripik Pisang,Snack,1,12500,12500,Cash,Tokopedia,Kasiyah Budiyanto,Cibubur
+INV-1074,2024-01-08,Rice Bowl Ayam,Makanan,4,30500,122000,QRIS,WhatsApp,"dr. Gilda Anggraini, S.IP",Jatiasih
+INV-1075,2024-01-08,Makaroni Pedas,Snack,7,10500,73500,Transfer Bank,Shopee,Cinta Lailasari,Bekasi Timur
+INV-1076,2024-01-08,Keripik Pisang,Snack,7,12500,87500,Transfer Bank,WhatsApp,Kania Sitompul,Jatiasih
+INV-1077,2024-01-08,Jus Alpukat,Minuman,4,18500,74000,Transfer Bank,Tokopedia,Luthfi Thamrin,Depok
+INV-1078,2024-01-08,Jus Alpukat,Minuman,1,18500,18500,Transfer Bank,Shopee,"KH. Umaya Nuraini, M.TI.",Bekasi Barat
+INV-1079,2024-01-08,Brownies Kukus,Kue,6,35500,213000,Transfer Bank,Shopee,Rahmi Putra,Pondok Gede
+INV-1080,2024-01-08,Bakso Aci Frozen,Makanan,4,18500,74000,Cash,WhatsApp,Gandi Laksmiwati,Pondok Gede
+INV-1081,2024-01-08,Seblak Instan,Makanan,5,15500,77500,E-Wallet,Offline Store,"Ir. Indah Hutasoit, S.Farm",Bekasi Timur
+INV-1082,2024-01-09,Bakso Aci Frozen,Makanan,2,18500,37000,Transfer Bank,Offline Store,KH. Nyana Prasetyo,Pondok Gede
+INV-1083,2024-01-09,Dimsum Ayam,Makanan,1,25500,25500,E-Wallet,WhatsApp,"Puti Wani Gunawan, M.TI.",Bekasi Timur
+INV-1084,2024-01-09,Rice Bowl Ayam,Makanan,7,30500,213500,QRIS,Instagram,"Marwata Handayani, S.IP",Depok
+INV-1085,2024-01-09,Thai Tea,Minuman,4,20500,82000,QRIS,Instagram,Dr. Pia Sihotang,Jatiasih
+INV-1086,2024-01-09,Bakso Aci Frozen,Makanan,9,18500,166500,Transfer Bank,WhatsApp,Bella Sihombing,Pondok Gede
+INV-1087,2024-01-09,Jus Alpukat,Minuman,2,18500,37000,Cash,Tokopedia,Lili Halimah,Bekasi Selatan
+INV-1088,2024-01-09,Dimsum Ayam,Makanan,9,25500,229500,E-Wallet,WhatsApp,"Natalia Najmudin, S.I.Kom",Bekasi Barat
+INV-1089,2024-01-09,Jus Alpukat,Minuman,5,18500,92500,Transfer Bank,Shopee,Kani Hastuti,Pondok Gede
+INV-1090,2024-01-09,Jus Alpukat,Minuman,7,18500,129500,Cash,Instagram,Laila Widodo,Pondok Gede
+INV-1091,2024-01-09,Makaroni Pedas,Snack,1,10500,10500,Cash,Shopee,"Banara Kurniawan, M.TI.",Pondok Gede
+INV-1092,2024-01-10,Thai Tea,Minuman,10,20500,205000,E-Wallet,Instagram,Puput Firgantoro,Bekasi Timur
+INV-1093,2024-01-10,Brownies Kukus,Kue,4,35500,142000,E-Wallet,Shopee,Baktianto Purnawati,Jatiwaringin
+INV-1094,2024-01-10,Seblak Instan,Makanan,5,15500,77500,Cash,Tokopedia,Maimunah Sudiati,Jatiasih
+INV-1095,2024-01-10,Es Kopi Susu,Minuman,5,22500,112500,Transfer Bank,Shopee,Alambana Agustina,Pondok Gede
+INV-1096,2024-01-10,Bakso Aci Frozen,Makanan,1,18500,18500,E-Wallet,Offline Store,Mustofa Mustofa,Jatiasih
+INV-1097,2024-01-10,Seblak Instan,Makanan,8,15500,124000,Transfer Bank,Instagram,Tgk. Agnes Mandala,Bekasi Selatan
+INV-1098,2024-01-10,Brownies Kukus,Kue,7,35500,248500,Transfer Bank,Tokopedia,Elvina Mandala,Bekasi Barat
+INV-1099,2024-01-10,Seblak Instan,Makanan,7,15500,108500,Transfer Bank,Offline Store,Prayoga Rajasa,Bekasi Selatan
+INV-1100,2024-01-10,Brownies Kukus,Kue,1,35500,35500,Transfer Bank,Tokopedia,Jinawi Megantara,Cibubur
+INV-1101,2024-01-10,Brownies Kukus,Kue,3,35500,106500,Cash,Instagram,Keisha Uyainah,Pondok Gede
+INV-1102,2024-01-10,Thai Tea,Minuman,9,20500,184500,E-Wallet,Shopee,Imam Purnawati,Jatibening
+INV-1103,2024-01-11,Brownies Kukus,Kue,5,35500,177500,Cash,Offline Store,Cecep Simanjuntak,Jatibening
+INV-1104,2024-01-11,Brownies Kukus,Kue,4,35500,142000,E-Wallet,Tokopedia,Carla Fujiati,Bekasi Barat
+INV-1105,2024-01-11,Dimsum Ayam,Makanan,4,25500,102000,Cash,WhatsApp,R. Lala Marpaung,Pondok Gede
+INV-1106,2024-01-11,Makaroni Pedas,Snack,2,10500,21000,Transfer Bank,Shopee,Cagak Tamba,Bekasi Timur
+INV-1107,2024-01-11,Jus Alpukat,Minuman,3,18500,55500,QRIS,Instagram,Kania Safitri,Pondok Gede
+INV-1108,2024-01-11,Jus Alpukat,Minuman,6,18500,111000,E-Wallet,Instagram,Safina Waskita,Jatiasih
+INV-1109,2024-01-11,Bakso Aci Frozen,Makanan,4,18500,74000,E-Wallet,Offline Store,Jati Saptono,Bekasi Barat
+INV-1110,2024-01-11,Bakso Aci Frozen,Makanan,10,18500,185000,E-Wallet,Tokopedia,"Lala Maulana, S.E.",Jakarta Timur
+INV-1111,2024-01-11,Rice Bowl Ayam,Makanan,5,30500,152500,E-Wallet,Offline Store,dr. Silvia Uyainah,Cibubur
+INV-1112,2024-01-11,Makaroni Pedas,Snack,10,10500,105000,E-Wallet,Shopee,Carla Oktaviani,Pondok Gede
+INV-1113,2024-01-11,Dimsum Ayam,Makanan,7,25500,178500,QRIS,Instagram,Asmuni Zulaika,Bekasi Barat
+INV-1114,2024-01-11,Rice Bowl Ayam,Makanan,7,30500,213500,E-Wallet,Shopee,"dr. Puji Palastri, S.IP",Pondok Gede
+INV-1115,2024-01-12,Makaroni Pedas,Snack,1,10500,10500,QRIS,Tokopedia,"Dt. Setya Hartati, S.Kom",Depok
+INV-1116,2024-01-12,Jus Alpukat,Minuman,3,18500,55500,Transfer Bank,Tokopedia,Puji Uwais,Cibubur
+INV-1117,2024-01-12,Dimsum Ayam,Makanan,7,25500,178500,Transfer Bank,Instagram,Yance Jailani,Pondok Gede
+INV-1118,2024-01-12,Rice Bowl Ayam,Makanan,6,30500,183000,Cash,Instagram,Gara Damanik,Bekasi Timur
+INV-1119,2024-01-12,Dimsum Ayam,Makanan,2,25500,51000,QRIS,Offline Store,Dt. Luhung Namaga,Bekasi Timur
+INV-1120,2024-01-12,Bakso Aci Frozen,Makanan,6,18500,111000,QRIS,Tokopedia,Fitria Prabowo,Pondok Gede
+INV-1121,2024-01-12,Bakso Aci Frozen,Makanan,4,18500,74000,QRIS,Offline Store,drg. Gabriella Prasasta,Jatiwaringin
+INV-1122,2024-01-12,Keripik Pisang,Snack,4,12500,50000,E-Wallet,Tokopedia,Cut Nurul Januar,Bekasi Barat
+INV-1123,2024-01-12,Thai Tea,Minuman,4,20500,82000,Cash,WhatsApp,Estiono Suryono,Jatiwaringin
+INV-1124,2024-01-12,Keripik Pisang,Snack,10,12500,125000,QRIS,Shopee,"Dr. Wawan Hardiansyah, M.M.",Bekasi Barat
+INV-1125,2024-01-12,Dimsum Ayam,Makanan,2,25500,51000,QRIS,WhatsApp,Shania Gunarto,Pondok Gede
+INV-1126,2024-01-12,Thai Tea,Minuman,7,20500,143500,Transfer Bank,Tokopedia,KH. Mustika Winarsih,Jatiasih
+INV-1127,2024-01-12,Thai Tea,Minuman,4,20500,82000,Cash,Offline Store,"drg. Kenzie Kurniawan, M.M.",Pondok Gede
+INV-1128,2024-01-12,Seblak Instan,Makanan,10,15500,155000,Cash,Offline Store,Jarwa Safitri,Depok
+INV-1129,2024-01-13,Rice Bowl Ayam,Makanan,2,30500,61000,Cash,Tokopedia,Puput Susanti,Cibubur
+INV-1130,2024-01-13,Jus Alpukat,Minuman,8,18500,148000,E-Wallet,WhatsApp,"Dr. Galak Gunarto, S.E.I",Cibubur
+INV-1131,2024-01-13,Brownies Kukus,Kue,3,35500,106500,Transfer Bank,Offline Store,Gabriella Rajata,Jatiasih
+INV-1132,2024-01-13,Dimsum Ayam,Makanan,10,25500,255000,E-Wallet,Instagram,"Faizah Simanjuntak, S.E.",Pondok Gede
+INV-1133,2024-01-13,Jus Alpukat,Minuman,10,18500,185000,Cash,Shopee,"Tania Megantara, S.Sos",Cibubur
+INV-1134,2024-01-13,Seblak Instan,Makanan,5,15500,77500,Transfer Bank,Instagram,Lili Permata,Jakarta Timur
+INV-1135,2024-01-13,Thai Tea,Minuman,10,20500,205000,Cash,Tokopedia,Kamila Pratiwi,Pondok Gede
+INV-1136,2024-01-13,Brownies Kukus,Kue,6,35500,213000,E-Wallet,Shopee,"Tgk. Daliono Iswahyudi, S.Psi",Bekasi Barat
+INV-1137,2024-01-13,Rice Bowl Ayam,Makanan,5,30500,152500,Cash,Offline Store,Drs. Muni Palastri,Pondok Gede
+INV-1138,2024-01-13,Dimsum Ayam,Makanan,9,25500,229500,Transfer Bank,Tokopedia,Dipa Mahendra,Jatiwaringin
+INV-1139,2024-01-13,Es Kopi Susu,Minuman,7,22500,157500,Transfer Bank,Instagram,Melinda Halim,Jatiwaringin
+INV-1140,2024-01-14,Brownies Kukus,Kue,8,35500,284000,QRIS,WhatsApp,"Cut Vanya Suwarno, S.Pt",Pondok Gede
+INV-1141,2024-01-14,Es Kopi Susu,Minuman,7,22500,157500,Cash,Offline Store,Lili Zulaika,Bekasi Barat
+INV-1142,2024-01-14,Rice Bowl Ayam,Makanan,8,30500,244000,Cash,Instagram,"Tgk. Dwi Marbun, M.Ak",Bekasi Barat
+INV-1143,2024-01-14,Makaroni Pedas,Snack,6,10500,63000,E-Wallet,WhatsApp,"Cut Safina Sihombing, S.Ked",Pondok Gede
+INV-1144,2024-01-14,Dimsum Ayam,Makanan,5,25500,127500,QRIS,Shopee,"Betania Waskita, M.Pd",Cibubur
+INV-1145,2024-01-14,Rice Bowl Ayam,Makanan,2,30500,61000,Transfer Bank,Shopee,Sabar Yolanda,Jatiasih
+INV-1146,2024-01-14,Es Kopi Susu,Minuman,8,22500,180000,Cash,Tokopedia,Winda Wahyudin,Pondok Gede
+INV-1147,2024-01-14,Es Kopi Susu,Minuman,5,22500,112500,Cash,Shopee,Raina Wibisono,Bekasi Barat
+INV-1148,2024-01-14,Dimsum Ayam,Makanan,1,25500,25500,Transfer Bank,WhatsApp,Olivia Pranowo,Jatibening
+INV-1149,2024-01-14,Bakso Aci Frozen,Makanan,1,18500,18500,Cash,Shopee,Julia Sihotang,Pondok Gede
+INV-1150,2024-01-14,Brownies Kukus,Kue,2,35500,71000,Cash,Instagram,Cawisono Hasanah,Jatiasih
+INV-1151,2024-01-14,Brownies Kukus,Kue,8,35500,284000,Transfer Bank,Tokopedia,Yunita Latupono,Bekasi Selatan
+INV-1152,2024-01-14,Dimsum Ayam,Makanan,8,25500,204000,QRIS,Instagram,"Hamima Dongoran, S.Psi",Bekasi Timur
+INV-1153,2024-01-14,Brownies Kukus,Kue,2,35500,71000,QRIS,Shopee,Ulya Suryatmi,Jatiasih
+INV-1154,2024-01-14,Keripik Pisang,Snack,10,12500,125000,QRIS,Shopee,Talia Halim,Bekasi Barat
+INV-1155,2024-01-15,Makaroni Pedas,Snack,7,10500,73500,Transfer Bank,Offline Store,"Dt. Lanang Maulana, S.Pt",Pondok Gede
+INV-1156,2024-01-15,Jus Alpukat,Minuman,8,18500,148000,Cash,Offline Store,Setya Firmansyah,Pondok Gede
+INV-1157,2024-01-15,Jus Alpukat,Minuman,5,18500,92500,QRIS,Offline Store,"Adika Yuniar, S.Pt",Jatiasih
+INV-1158,2024-01-15,Seblak Instan,Makanan,4,15500,62000,Cash,Tokopedia,Icha Widiastuti,Bekasi Timur
+INV-1159,2024-01-15,Keripik Pisang,Snack,4,12500,50000,QRIS,Shopee,Sutan Balamantri Usamah,Pondok Gede
+INV-1160,2024-01-15,Bakso Aci Frozen,Makanan,7,18500,129500,E-Wallet,WhatsApp,Oliva Hutapea,Pondok Gede
+INV-1161,2024-01-16,Es Kopi Susu,Minuman,5,22500,112500,E-Wallet,Tokopedia,Eli Mahendra,Pondok Gede
+INV-1162,2024-01-16,Es Kopi Susu,Minuman,5,22500,112500,Transfer Bank,Instagram,Nilam Marpaung,Bekasi Timur
+INV-1163,2024-01-16,Seblak Instan,Makanan,9,15500,139500,Transfer Bank,WhatsApp,Nyoman Novitasari,Pondok Gede
+INV-1164,2024-01-16,Keripik Pisang,Snack,2,12500,25000,Transfer Bank,WhatsApp,"Virman Wacana, S.Pt",Depok
+INV-1165,2024-01-16,Thai Tea,Minuman,10,20500,205000,E-Wallet,Tokopedia,Hamima Haryanti,Cibubur
+INV-1166,2024-01-17,Dimsum Ayam,Makanan,7,25500,178500,E-Wallet,Instagram,Jayeng Firgantoro,Pondok Gede
+INV-1167,2024-01-17,Seblak Instan,Makanan,10,15500,155000,E-Wallet,WhatsApp,"Umar Hakim, S.I.Kom",Pondok Gede
+INV-1168,2024-01-17,Thai Tea,Minuman,5,20500,102500,QRIS,Shopee,Ade Waluyo,Jatibening
+INV-1169,2024-01-17,Thai Tea,Minuman,10,20500,205000,Cash,Offline Store,R.M. Jamal Maryadi,Pondok Gede
+INV-1170,2024-01-17,Bakso Aci Frozen,Makanan,3,18500,55500,E-Wallet,WhatsApp,Amelia Hasanah,Pondok Gede
+INV-1171,2024-01-17,Keripik Pisang,Snack,10,12500,125000,E-Wallet,Tokopedia,Jasmin Zulaika,Jakarta Timur
+INV-1172,2024-01-17,Brownies Kukus,Kue,6,35500,213000,Cash,WhatsApp,"Safina Pradana, S.I.Kom",Bekasi Timur
+INV-1173,2024-01-17,Seblak Instan,Makanan,3,15500,46500,E-Wallet,Instagram,Jarwi Padmasari,Bekasi Barat
+INV-1174,2024-01-17,Dimsum Ayam,Makanan,7,25500,178500,QRIS,Instagram,Drs. Timbul Hassanah,Jatiwaringin
+INV-1175,2024-01-17,Seblak Instan,Makanan,6,15500,93000,Cash,Tokopedia,drg. Zelda Agustina,Jatiwaringin
+INV-1176,2024-01-17,Jus Alpukat,Minuman,9,18500,166500,E-Wallet,Instagram,"Tami Latupono, S.T.",Pondok Gede
+INV-1177,2024-01-17,Bakso Aci Frozen,Makanan,4,18500,74000,Cash,Offline Store,"Raina Pudjiastuti, M.M.",Pondok Gede
+INV-1178,2024-01-18,Brownies Kukus,Kue,1,35500,35500,Cash,Offline Store,Reza Tamba,Jatiasih
+INV-1179,2024-01-18,Keripik Pisang,Snack,5,12500,62500,E-Wallet,Tokopedia,"Ir. Agnes Suwarno, S.Gz",Jatiasih
+INV-1180,2024-01-18,Bakso Aci Frozen,Makanan,10,18500,185000,Transfer Bank,WhatsApp,Ir. Alika Wasita,Bekasi Barat
+INV-1181,2024-01-18,Makaroni Pedas,Snack,1,10500,10500,E-Wallet,Tokopedia,drg. Gading Napitupulu,Jatibening
+INV-1182,2024-01-18,Es Kopi Susu,Minuman,2,22500,45000,QRIS,Shopee,"Yani Kuswoyo, S.Gz",Jatibening
+INV-1183,2024-01-18,Brownies Kukus,Kue,5,35500,177500,Cash,Instagram,"dr. Endra Permata, S.Ked",Bekasi Selatan
+INV-1184,2024-01-18,Brownies Kukus,Kue,8,35500,284000,E-Wallet,Offline Store,Harto Jailani,Pondok Gede
+INV-1185,2024-01-18,Keripik Pisang,Snack,7,12500,87500,Transfer Bank,Tokopedia,Nasrullah Damanik,Jatiasih
+INV-1186,2024-01-18,Dimsum Ayam,Makanan,7,25500,178500,Cash,Tokopedia,"Adikara Prakasa, S.E.I",Jatiasih
+INV-1187,2024-01-18,Dimsum Ayam,Makanan,5,25500,127500,E-Wallet,Shopee,"dr. Prasetya Usada, M.Farm",Cibubur
+INV-1188,2024-01-18,Brownies Kukus,Kue,9,35500,319500,Cash,WhatsApp,Bahuwirya Mulyani,Pondok Gede
+INV-1189,2024-01-18,Makaroni Pedas,Snack,9,10500,94500,E-Wallet,WhatsApp,Yunita Wibisono,Pondok Gede
+INV-1190,2024-01-19,Es Kopi Susu,Minuman,10,22500,225000,Transfer Bank,Instagram,"Dipa Nasyiah, S.H.",Bekasi Barat
+INV-1191,2024-01-19,Bakso Aci Frozen,Makanan,6,18500,111000,E-Wallet,Instagram,KH. Emas Prakasa,Jatiasih
+INV-1192,2024-01-19,Keripik Pisang,Snack,8,12500,100000,Transfer Bank,Offline Store,"H. Asmianto Anggraini, S.Sos",Pondok Gede
+INV-1193,2024-01-19,Thai Tea,Minuman,6,20500,123000,E-Wallet,Tokopedia,"R. Gasti Yulianti, S.Ked",Pondok Gede
+INV-1194,2024-01-19,Makaroni Pedas,Snack,8,10500,84000,Transfer Bank,Instagram,Hasna Kusmawati,Depok
+INV-1195,2024-01-19,Keripik Pisang,Snack,2,12500,25000,Cash,WhatsApp,Kasiran Susanti,Bekasi Barat
+INV-1196,2024-01-19,Thai Tea,Minuman,7,20500,143500,Cash,Offline Store,Uchita Halim,Cibubur
+INV-1197,2024-01-19,Jus Alpukat,Minuman,6,18500,111000,QRIS,Offline Store,"H. Gatra Sihombing, S.Gz",Bekasi Barat
+INV-1198,2024-01-20,Es Kopi Susu,Minuman,5,22500,112500,QRIS,Instagram,Prayitna Narpati,Pondok Gede
+INV-1199,2024-01-20,Seblak Instan,Makanan,2,15500,31000,Transfer Bank,WhatsApp,R.M. Jarwadi Zulkarnain,Bekasi Selatan
+INV-1200,2024-01-20,Bakso Aci Frozen,Makanan,1,18500,18500,QRIS,WhatsApp,Laswi Mardhiyah,Cibubur
+INV-1201,2024-01-20,Rice Bowl Ayam,Makanan,6,30500,183000,Transfer Bank,Shopee,"drg. Patricia Nurdiyanti, M.Pd",Jakarta Timur
+INV-1202,2024-01-20,Makaroni Pedas,Snack,7,10500,73500,Transfer Bank,Shopee,Hani Waskita,Depok
+INV-1203,2024-01-20,Keripik Pisang,Snack,2,12500,25000,E-Wallet,Offline Store,Hafshah Pradipta,Cibubur
+INV-1204,2024-01-21,Es Kopi Susu,Minuman,8,22500,180000,Transfer Bank,Shopee,Tami Mansur,Pondok Gede
+INV-1205,2024-01-21,Brownies Kukus,Kue,5,35500,177500,Cash,Tokopedia,"KH. Rizki Tarihoran, S.Pt",Bekasi Barat
+INV-1206,2024-01-21,Brownies Kukus,Kue,5,35500,177500,Transfer Bank,Tokopedia,Tirtayasa Prastuti,Pondok Gede
+INV-1207,2024-01-21,Brownies Kukus,Kue,6,35500,213000,Cash,Instagram,Melinda Mangunsong,Jatiasih
+INV-1208,2024-01-21,Dimsum Ayam,Makanan,8,25500,204000,Transfer Bank,Instagram,"Puti Haryanto, M.Kom.",Pondok Gede
+INV-1209,2024-01-21,Brownies Kukus,Kue,2,35500,71000,E-Wallet,Offline Store,"Bakiman Hariyah, S.Pt",Jatiasih
+INV-1210,2024-01-21,Rice Bowl Ayam,Makanan,10,30500,305000,Cash,Tokopedia,"KH. Prabowo Situmorang, S.E.",Bekasi Selatan
+INV-1211,2024-01-21,Jus Alpukat,Minuman,5,18500,92500,QRIS,Offline Store,Prakosa Novitasari,Pondok Gede
+INV-1212,2024-01-21,Brownies Kukus,Kue,5,35500,177500,Cash,Shopee,Yuliana Prasetya,Jatiwaringin
+INV-1213,2024-01-21,Es Kopi Susu,Minuman,10,22500,225000,Transfer Bank,Tokopedia,Dt. Maras Wahyudin,Bekasi Barat
+INV-1214,2024-01-21,Bakso Aci Frozen,Makanan,5,18500,92500,QRIS,Offline Store,"Siska Iswahyudi, S.Kom",Jatiasih
+INV-1215,2024-01-21,Rice Bowl Ayam,Makanan,3,30500,91500,Cash,WhatsApp,"R.M. Asman Agustina, M.Ak",Jakarta Timur
+INV-1216,2024-01-21,Jus Alpukat,Minuman,3,18500,55500,Transfer Bank,Offline Store,Dewi Pudjiastuti,Bekasi Selatan
+INV-1217,2024-01-21,Rice Bowl Ayam,Makanan,9,30500,274500,Cash,Shopee,Bagus Napitupulu,Bekasi Barat
+INV-1218,2024-01-21,Dimsum Ayam,Makanan,8,25500,204000,Cash,Tokopedia,Kawaya Zulkarnain,Jatibening
+INV-1219,2024-01-22,Seblak Instan,Makanan,3,15500,46500,E-Wallet,Offline Store,Pardi Prabowo,Pondok Gede
+INV-1220,2024-01-22,Rice Bowl Ayam,Makanan,2,30500,61000,QRIS,WhatsApp,"dr. Mila Mustofa, S.Farm",Pondok Gede
+INV-1221,2024-01-22,Makaroni Pedas,Snack,2,10500,21000,Cash,WhatsApp,Omar Waluyo,Jakarta Timur
+INV-1222,2024-01-22,Thai Tea,Minuman,7,20500,143500,QRIS,Shopee,Utama Laksita,Bekasi Timur
+INV-1223,2024-01-22,Brownies Kukus,Kue,1,35500,35500,Cash,Offline Store,Vanya Yulianti,Bekasi Barat
+INV-1224,2024-01-22,Es Kopi Susu,Minuman,2,22500,45000,Cash,Instagram,KH. Emas Sitorus,Jatiwaringin
+INV-1225,2024-01-22,Seblak Instan,Makanan,3,15500,46500,QRIS,WhatsApp,Salimah Rajasa,Pondok Gede
+INV-1226,2024-01-22,Brownies Kukus,Kue,2,35500,71000,Transfer Bank,Offline Store,Widya Padmasari,Bekasi Timur
+INV-1227,2024-01-22,Keripik Pisang,Snack,7,12500,87500,Cash,Offline Store,"drg. Ayu Dongoran, S.Farm",Bekasi Barat
+INV-1228,2024-01-22,Jus Alpukat,Minuman,10,18500,185000,E-Wallet,Tokopedia,"Ayu Prasetyo, M.Kom.",Cibubur
+INV-1229,2024-01-22,Brownies Kukus,Kue,10,35500,355000,Cash,Tokopedia,Winda Handayani,Pondok Gede
+INV-1230,2024-01-22,Rice Bowl Ayam,Makanan,4,30500,122000,E-Wallet,Shopee,Mariadi Susanti,Jakarta Timur
+INV-1231,2024-01-23,Seblak Instan,Makanan,6,15500,93000,Cash,Tokopedia,Raisa Mahendra,Pondok Gede
+INV-1232,2024-01-23,Jus Alpukat,Minuman,5,18500,92500,QRIS,Instagram,Diana Ardianto,Pondok Gede
+INV-1233,2024-01-23,Seblak Instan,Makanan,4,15500,62000,QRIS,Tokopedia,Cahyanto Hutasoit,Bekasi Timur
+INV-1234,2024-01-23,Rice Bowl Ayam,Makanan,4,30500,122000,Transfer Bank,Tokopedia,"Cut Lalita Pradana, M.Kom.",Jatibening
+INV-1235,2024-01-23,Makaroni Pedas,Snack,4,10500,42000,Transfer Bank,Shopee,T. Jinawi Hakim,Pondok Gede
+INV-1236,2024-01-23,Rice Bowl Ayam,Makanan,3,30500,91500,QRIS,WhatsApp,Drs. Mila Pradana,Pondok Gede
+INV-1237,2024-01-23,Keripik Pisang,Snack,3,12500,37500,Cash,Shopee,Muhammad Hidayat,Depok
+INV-1238,2024-01-23,Seblak Instan,Makanan,1,15500,15500,QRIS,WhatsApp,Hj. Suci Damanik,Pondok Gede
+INV-1239,2024-01-23,Es Kopi Susu,Minuman,10,22500,225000,QRIS,Shopee,"Lintang Anggriawan, M.Ak",Bekasi Timur
+INV-1240,2024-01-23,Dimsum Ayam,Makanan,1,25500,25500,E-Wallet,Offline Store,"Jinawi Laksmiwati, M.TI.",Bekasi Timur
+INV-1241,2024-01-24,Seblak Instan,Makanan,8,15500,124000,Cash,Offline Store,Bakidin Prastuti,Jatiasih
+INV-1242,2024-01-24,Thai Tea,Minuman,2,20500,41000,Transfer Bank,Offline Store,Eli Pradipta,Bekasi Timur
+INV-1243,2024-01-24,Bakso Aci Frozen,Makanan,9,18500,166500,E-Wallet,Tokopedia,Ayu Prastuti,Bekasi Barat
+INV-1244,2024-01-24,Bakso Aci Frozen,Makanan,8,18500,148000,E-Wallet,Tokopedia,Gantar Jailani,Jakarta Timur
+INV-1245,2024-01-24,Brownies Kukus,Kue,8,35500,284000,QRIS,WhatsApp,Rini Gunarto,Pondok Gede
+INV-1246,2024-01-24,Thai Tea,Minuman,3,20500,61500,Transfer Bank,WhatsApp,Mila Saefullah,Jatibening
+INV-1247,2024-01-25,Thai Tea,Minuman,9,20500,184500,E-Wallet,Offline Store,Nurul Ardianto,Pondok Gede
+INV-1248,2024-01-25,Makaroni Pedas,Snack,5,10500,52500,E-Wallet,Tokopedia,Belinda Siregar,Jatiasih
+INV-1249,2024-01-25,Seblak Instan,Makanan,9,15500,139500,E-Wallet,Instagram,Timbul Kusmawati,Jatibening
+INV-1250,2024-01-25,Es Kopi Susu,Minuman,7,22500,157500,E-Wallet,Instagram,R. Atmaja Marpaung,Pondok Gede
+INV-1251,2024-01-25,Jus Alpukat,Minuman,2,18500,37000,E-Wallet,WhatsApp,Sakura Prasasta,Jatiasih
+INV-1252,2024-01-25,Dimsum Ayam,Makanan,6,25500,153000,E-Wallet,Tokopedia,dr. Darimin Dongoran,Jatiwaringin
+INV-1253,2024-01-25,Seblak Instan,Makanan,2,15500,31000,E-Wallet,Tokopedia,Muni Kusumo,Pondok Gede
+INV-1254,2024-01-25,Rice Bowl Ayam,Makanan,3,30500,91500,QRIS,Offline Store,"dr. Alambana Purnawati, S.E.",Bekasi Barat
+INV-1255,2024-01-25,Makaroni Pedas,Snack,9,10500,94500,QRIS,Instagram,"drg. Edison Rahmawati, M.Ak",Bekasi Selatan
+INV-1256,2024-01-25,Rice Bowl Ayam,Makanan,7,30500,213500,Cash,Offline Store,Samiah Ardianto,Bekasi Selatan
+INV-1257,2024-01-25,Dimsum Ayam,Makanan,6,25500,153000,Transfer Bank,Shopee,R.A. Nurul Samosir,Pondok Gede
+INV-1258,2024-01-25,Brownies Kukus,Kue,4,35500,142000,Cash,Offline Store,R. Ratih Kuswoyo,Pondok Gede
+INV-1259,2024-01-25,Rice Bowl Ayam,Makanan,2,30500,61000,Transfer Bank,Instagram,Alika Prayoga,Pondok Gede
+INV-1260,2024-01-25,Makaroni Pedas,Snack,10,10500,105000,QRIS,Offline Store,Daryani Gunarto,Jakarta Timur
+INV-1261,2024-01-26,Dimsum Ayam,Makanan,1,25500,25500,Cash,WhatsApp,Elvina Puspasari,Depok
+INV-1262,2024-01-26,Rice Bowl Ayam,Makanan,6,30500,183000,Transfer Bank,Shopee,Kani Waluyo,Cibubur
+INV-1263,2024-01-26,Thai Tea,Minuman,7,20500,143500,Transfer Bank,Tokopedia,"Widya Haryanti, S.H.",Jatiasih
+INV-1264,2024-01-26,Seblak Instan,Makanan,9,15500,139500,E-Wallet,Instagram,"Drs. Nyana Mangunsong, M.Farm",Pondok Gede
+INV-1265,2024-01-26,Brownies Kukus,Kue,6,35500,213000,Cash,WhatsApp,H. Galuh Wastuti,Cibubur
+INV-1266,2024-01-26,Rice Bowl Ayam,Makanan,10,30500,305000,QRIS,Tokopedia,Sutan Arsipatra Hariyah,Jatibening
+INV-1267,2024-01-26,Keripik Pisang,Snack,3,12500,37500,QRIS,WhatsApp,drg. Vega Santoso,Bekasi Timur
+INV-1268,2024-01-26,Brownies Kukus,Kue,7,35500,248500,E-Wallet,Instagram,"Clara Rahimah, S.Ked",Bekasi Selatan
+INV-1269,2024-01-26,Dimsum Ayam,Makanan,4,25500,102000,QRIS,WhatsApp,Ganep Prasasta,Bekasi Timur
+INV-1270,2024-01-26,Jus Alpukat,Minuman,2,18500,37000,E-Wallet,Offline Store,"Lukman Riyanti, M.Pd",Pondok Gede
+INV-1271,2024-01-26,Dimsum Ayam,Makanan,1,25500,25500,E-Wallet,Offline Store,Radit Najmudin,Jatiwaringin
+INV-1272,2024-01-26,Bakso Aci Frozen,Makanan,1,18500,18500,Cash,Shopee,"Drs. Winda Mandasari, S.Sos",Pondok Gede
+INV-1273,2024-01-26,Keripik Pisang,Snack,5,12500,62500,Cash,Tokopedia,Jamal Hidayat,Jatibening
+INV-1274,2024-01-26,Bakso Aci Frozen,Makanan,8,18500,148000,Transfer Bank,Shopee,Jayeng Suartini,Jakarta Timur
+INV-1275,2024-01-26,Jus Alpukat,Minuman,9,18500,166500,Cash,Tokopedia,Kenari Wibowo,Pondok Gede
+INV-1276,2024-01-27,Bakso Aci Frozen,Makanan,7,18500,129500,E-Wallet,Tokopedia,Kayun Farida,Pondok Gede
+INV-1277,2024-01-27,Rice Bowl Ayam,Makanan,10,30500,305000,E-Wallet,Instagram,"Dimas Agustina, S.Psi",Pondok Gede
+INV-1278,2024-01-27,Dimsum Ayam,Makanan,2,25500,51000,QRIS,WhatsApp,Cahyo Marpaung,Bekasi Barat
+INV-1279,2024-01-27,Keripik Pisang,Snack,10,12500,125000,Cash,Tokopedia,"Drs. Harsaya Napitupulu, S.Psi",Pondok Gede
+INV-1280,2024-01-27,Jus Alpukat,Minuman,2,18500,37000,E-Wallet,Offline Store,"H. Mursita Utama, M.Ak",Bekasi Timur
+INV-1281,2024-01-27,Jus Alpukat,Minuman,9,18500,166500,E-Wallet,WhatsApp,KH. Harto Pudjiastuti,Jatibening
+INV-1282,2024-01-27,Rice Bowl Ayam,Makanan,4,30500,122000,Transfer Bank,Tokopedia,"Lalita Hassanah, S.Kom",Pondok Gede
+INV-1283,2024-01-27,Makaroni Pedas,Snack,2,10500,21000,Transfer Bank,WhatsApp,Kenes Mansur,Bekasi Timur
+INV-1284,2024-01-27,Rice Bowl Ayam,Makanan,3,30500,91500,QRIS,Shopee,Restu Mardhiyah,Pondok Gede
+INV-1285,2024-01-27,Dimsum Ayam,Makanan,4,25500,102000,Transfer Bank,Tokopedia,"Latika Farida, S.Ked",Bekasi Barat
+INV-1286,2024-01-27,Keripik Pisang,Snack,8,12500,100000,E-Wallet,Offline Store,Widya Astuti,Depok
+INV-1287,2024-01-28,Thai Tea,Minuman,6,20500,123000,Transfer Bank,Instagram,Zelda Namaga,Cibubur
+INV-1288,2024-01-28,Seblak Instan,Makanan,8,15500,124000,Cash,WhatsApp,"Tedi Ramadan, S.Pd",Pondok Gede
+INV-1289,2024-01-28,Thai Tea,Minuman,1,20500,20500,QRIS,WhatsApp,Gasti Prayoga,Jatiasih
+INV-1290,2024-01-28,Brownies Kukus,Kue,8,35500,284000,QRIS,WhatsApp,Raisa Budiman,Pondok Gede
+INV-1291,2024-01-28,Dimsum Ayam,Makanan,2,25500,51000,E-Wallet,Instagram,Dian Zulaika,Pondok Gede
+INV-1292,2024-01-28,Thai Tea,Minuman,9,20500,184500,E-Wallet,Offline Store,Dr. Tina Rajata,Jatiwaringin
+INV-1293,2024-01-28,Es Kopi Susu,Minuman,6,22500,135000,E-Wallet,Offline Store,Darimin Kuswoyo,Bekasi Timur
+INV-1294,2024-01-28,Keripik Pisang,Snack,1,12500,12500,QRIS,WhatsApp,Syahrini Prastuti,Pondok Gede
+INV-1295,2024-01-28,Seblak Instan,Makanan,9,15500,139500,QRIS,Shopee,"Ir. Panca Hartati, S.Pt",Jatiwaringin
+INV-1296,2024-01-28,Brownies Kukus,Kue,8,35500,284000,Transfer Bank,WhatsApp,dr. Cayadi Kuswandari,Bekasi Barat
+INV-1297,2024-01-28,Rice Bowl Ayam,Makanan,5,30500,152500,E-Wallet,WhatsApp,Yani Dabukke,Jatiasih
+INV-1298,2024-01-28,Thai Tea,Minuman,1,20500,20500,QRIS,WhatsApp,Candrakanta Permata,Pondok Gede
+INV-1299,2024-01-28,Seblak Instan,Makanan,9,15500,139500,Cash,WhatsApp,Wulan Narpati,Pondok Gede
+INV-1300,2024-01-28,Thai Tea,Minuman,3,20500,61500,QRIS,Offline Store,Omar Yulianti,Depok
+INV-1301,2024-01-28,Keripik Pisang,Snack,6,12500,75000,E-Wallet,Shopee,Diana Napitupulu,Depok
+INV-1302,2024-01-29,Seblak Instan,Makanan,5,15500,77500,E-Wallet,WhatsApp,"dr. Hesti Sudiati, S.Ked",Bekasi Barat
+INV-1303,2024-01-29,Keripik Pisang,Snack,9,12500,112500,E-Wallet,Offline Store,Asman Widodo,Cibubur
+INV-1304,2024-01-29,Rice Bowl Ayam,Makanan,1,30500,30500,Cash,Shopee,"Lanang Farida, S.Farm",Bekasi Timur
+INV-1305,2024-01-29,Es Kopi Susu,Minuman,6,22500,135000,Transfer Bank,Shopee,H. Jamal Narpati,Pondok Gede
+INV-1306,2024-01-29,Keripik Pisang,Snack,3,12500,37500,Cash,Tokopedia,Panca Ardianto,Pondok Gede
+INV-1307,2024-01-29,Makaroni Pedas,Snack,9,10500,94500,QRIS,WhatsApp,Patricia Suryono,Jatiasih
+INV-1308,2024-01-29,Thai Tea,Minuman,3,20500,61500,E-Wallet,Shopee,Ophelia Saragih,Depok
+INV-1309,2024-01-29,Keripik Pisang,Snack,3,12500,37500,E-Wallet,Tokopedia,Marsudi Kuswoyo,Jatiwaringin
+INV-1310,2024-01-29,Jus Alpukat,Minuman,6,18500,111000,E-Wallet,Offline Store,"Bambang Susanti, S.E.",Cibubur
+INV-1311,2024-01-29,Dimsum Ayam,Makanan,8,25500,204000,Transfer Bank,WhatsApp,Maryadi Sihombing,Depok
+INV-1312,2024-01-29,Brownies Kukus,Kue,4,35500,142000,E-Wallet,Instagram,R. Paiman Hariyah,Pondok Gede
+INV-1313,2024-01-29,Dimsum Ayam,Makanan,7,25500,178500,E-Wallet,Shopee,"Dt. Dacin Ramadan, S.Gz",Pondok Gede
+INV-1314,2024-01-29,Es Kopi Susu,Minuman,10,22500,225000,Cash,Tokopedia,Darman Uwais,Pondok Gede
+INV-1315,2024-01-29,Brownies Kukus,Kue,6,35500,213000,QRIS,Offline Store,R.M. Gandi Rajasa,Jatiwaringin
+INV-1316,2024-01-30,Dimsum Ayam,Makanan,2,25500,51000,Cash,Instagram,Farah Mandasari,Depok
+INV-1317,2024-01-30,Makaroni Pedas,Snack,3,10500,31500,QRIS,Shopee,Danang Natsir,Jatiasih
+INV-1318,2024-01-30,Brownies Kukus,Kue,6,35500,213000,E-Wallet,Tokopedia,"Tgk. Yani Haryanti, M.Farm",Bekasi Timur
+INV-1319,2024-01-30,Jus Alpukat,Minuman,9,18500,166500,Transfer Bank,Instagram,Jinawi Zulkarnain,Pondok Gede
+INV-1320,2024-01-30,Seblak Instan,Makanan,6,15500,93000,QRIS,WhatsApp,Icha Putra,Depok
+INV-1321,2024-01-30,Seblak Instan,Makanan,6,15500,93000,Transfer Bank,Tokopedia,Ella Mansur,Cibubur
+INV-1322,2024-01-31,Brownies Kukus,Kue,3,35500,106500,E-Wallet,Offline Store,Kasiran Pradana,Bekasi Selatan
+INV-1323,2024-01-31,Bakso Aci Frozen,Makanan,2,18500,37000,Cash,Shopee,"Ir. Cawisono Wibisono, S.H.",Jatiwaringin
+INV-1324,2024-01-31,Keripik Pisang,Snack,9,12500,112500,E-Wallet,Tokopedia,Anastasia Padmasari,Depok
+INV-1325,2024-01-31,Dimsum Ayam,Makanan,4,25500,102000,QRIS,Tokopedia,Rosman Novitasari,Pondok Gede
+INV-1326,2024-01-31,Es Kopi Susu,Minuman,7,22500,157500,QRIS,Tokopedia,Mujur Namaga,Jatibening
+INV-1327,2024-01-31,Brownies Kukus,Kue,10,35500,355000,QRIS,Offline Store,"Sutan Emas Suartini, M.Kom.",Jatiasih
+INV-1328,2024-01-31,Thai Tea,Minuman,4,20500,82000,Cash,Instagram,"Embuh Halimah, S.Kom",Jakarta Timur
+INV-1329,2024-01-31,Bakso Aci Frozen,Makanan,10,18500,185000,Transfer Bank,Offline Store,"Gaman Wijayanti, S.I.Kom",Jatiwaringin
+INV-1330,2024-01-31,Jus Alpukat,Minuman,3,18500,55500,Cash,Tokopedia,Juli Prabowo,Cibubur
+INV-1331,2024-02-01,Makaroni Pedas,Snack,9,10500,94500,QRIS,Instagram,"Mala Rajasa, S.I.Kom",Jatiwaringin
+INV-1332,2024-02-01,Brownies Kukus,Kue,1,35500,35500,Cash,WhatsApp,Talia Santoso,Pondok Gede
+INV-1333,2024-02-01,Bakso Aci Frozen,Makanan,6,18500,111000,Cash,Shopee,Nurul Safitri,Jatiwaringin
+INV-1334,2024-02-01,Seblak Instan,Makanan,10,15500,155000,Transfer Bank,Tokopedia,"Zelaya Nasyiah, S.Kom",Pondok Gede
+INV-1335,2024-02-01,Rice Bowl Ayam,Makanan,9,30500,274500,Transfer Bank,Instagram,Olga Adriansyah,Cibubur
+INV-1336,2024-02-01,Brownies Kukus,Kue,3,35500,106500,QRIS,Instagram,"Cut Tiara Narpati, S.Gz",Cibubur
+INV-1337,2024-02-01,Bakso Aci Frozen,Makanan,5,18500,92500,QRIS,Shopee,"Jati Nugroho, M.Pd",Pondok Gede
+INV-1338,2024-02-01,Bakso Aci Frozen,Makanan,6,18500,111000,E-Wallet,Offline Store,"Drs. Titin Widiastuti, S.E.",Jatiwaringin
+INV-1339,2024-02-01,Brownies Kukus,Kue,5,35500,177500,Transfer Bank,WhatsApp,"KH. Respati Laksita, S.Pd",Bekasi Barat
+INV-1340,2024-02-01,Rice Bowl Ayam,Makanan,1,30500,30500,Cash,Tokopedia,"H. Bagya Hardiansyah, S.H.",Jatiasih
+INV-1341,2024-02-01,Rice Bowl Ayam,Makanan,7,30500,213500,E-Wallet,Instagram,Hana Mangunsong,Jatiwaringin
+INV-1342,2024-02-01,Rice Bowl Ayam,Makanan,3,30500,91500,E-Wallet,WhatsApp,Darijan Yolanda,Pondok Gede
+INV-1343,2024-02-01,Makaroni Pedas,Snack,5,10500,52500,E-Wallet,Tokopedia,Erik Tampubolon,Pondok Gede
+INV-1344,2024-02-02,Thai Tea,Minuman,3,20500,61500,Cash,WhatsApp,Diah Suryono,Pondok Gede
+INV-1345,2024-02-02,Seblak Instan,Makanan,2,15500,31000,Cash,WhatsApp,"R. Jayadi Widodo, S.Ked",Jatiasih
+INV-1346,2024-02-02,Brownies Kukus,Kue,10,35500,355000,Transfer Bank,Instagram,Warsa Rahayu,Cibubur
+INV-1347,2024-02-02,Rice Bowl Ayam,Makanan,8,30500,244000,Cash,Offline Store,Wahyu Firmansyah,Jakarta Timur
+INV-1348,2024-02-02,Jus Alpukat,Minuman,5,18500,92500,QRIS,Instagram,Kamaria Sihotang,Pondok Gede
+INV-1349,2024-02-02,Rice Bowl Ayam,Makanan,9,30500,274500,QRIS,Shopee,Kasusra Hidayat,Bekasi Timur
+INV-1350,2024-02-02,Thai Tea,Minuman,8,20500,164000,Transfer Bank,Tokopedia,"Tami Lazuardi, S.Gz",Jatiasih
+INV-1351,2024-02-02,Es Kopi Susu,Minuman,6,22500,135000,E-Wallet,Offline Store,Siti Hutapea,Bekasi Selatan
+INV-1352,2024-02-02,Bakso Aci Frozen,Makanan,10,18500,185000,E-Wallet,WhatsApp,"Ratna Kuswandari, S.I.Kom",Bekasi Barat
+INV-1353,2024-02-02,Rice Bowl Ayam,Makanan,8,30500,244000,Transfer Bank,Offline Store,Prakosa Maheswara,Jakarta Timur
+INV-1354,2024-02-02,Rice Bowl Ayam,Makanan,7,30500,213500,Cash,Shopee,Dr. Indah Nababan,Pondok Gede
+INV-1355,2024-02-03,Bakso Aci Frozen,Makanan,3,18500,55500,E-Wallet,Offline Store,Zamira Purwanti,Bekasi Selatan
+INV-1356,2024-02-03,Seblak Instan,Makanan,5,15500,77500,E-Wallet,Shopee,Yance Saragih,Pondok Gede
+INV-1357,2024-02-03,Thai Tea,Minuman,5,20500,102500,Transfer Bank,Tokopedia,Ani Permata,Jakarta Timur
+INV-1358,2024-02-03,Keripik Pisang,Snack,2,12500,25000,Transfer Bank,Instagram,Cindy Handayani,Pondok Gede
+INV-1359,2024-02-03,Seblak Instan,Makanan,6,15500,93000,QRIS,Offline Store,Kania Kuswandari,Pondok Gede
+INV-1360,2024-02-03,Makaroni Pedas,Snack,5,10500,52500,Transfer Bank,Shopee,Daru Hassanah,Jatiasih
+INV-1361,2024-02-04,Makaroni Pedas,Snack,4,10500,42000,Transfer Bank,Shopee,dr. Raina Waskita,Jatibening
+INV-1362,2024-02-04,Es Kopi Susu,Minuman,8,22500,180000,Cash,Offline Store,"Cakrajiya Haryanto, M.M.",Jatiasih
+INV-1363,2024-02-04,Thai Tea,Minuman,6,20500,123000,Transfer Bank,Offline Store,"Ir. Zulaikha Wasita, S.I.Kom",Bekasi Timur
+INV-1364,2024-02-04,Seblak Instan,Makanan,2,15500,31000,E-Wallet,Instagram,"Ulva Yulianti, M.Ak",Bekasi Barat
+INV-1365,2024-02-04,Makaroni Pedas,Snack,7,10500,73500,QRIS,Shopee,Nrima Novitasari,Jatiasih
+INV-1366,2024-02-04,Rice Bowl Ayam,Makanan,2,30500,61000,E-Wallet,Offline Store,Oliva Saragih,Bekasi Timur
+INV-1367,2024-02-04,Rice Bowl Ayam,Makanan,3,30500,91500,Transfer Bank,Shopee,Jelita Kurniawan,Pondok Gede
+INV-1368,2024-02-04,Jus Alpukat,Minuman,9,18500,166500,QRIS,Offline Store,Puti Talia Kuswandari,Jatibening
+INV-1369,2024-02-04,Keripik Pisang,Snack,5,12500,62500,Transfer Bank,WhatsApp,Bahuwarna Melani,Pondok Gede
+INV-1370,2024-02-04,Es Kopi Susu,Minuman,6,22500,135000,Cash,Tokopedia,"H. Artanto Mustofa, M.Farm",Depok
+INV-1371,2024-02-05,Es Kopi Susu,Minuman,9,22500,202500,Transfer Bank,WhatsApp,Ana Nurdiyanti,Bekasi Barat
+INV-1372,2024-02-05,Thai Tea,Minuman,9,20500,184500,Transfer Bank,Offline Store,Yahya Utama,Jatibening
+INV-1373,2024-02-05,Thai Tea,Minuman,3,20500,61500,Cash,Offline Store,"drg. Nasrullah Sihombing, S.Pd",Jatiwaringin
+INV-1374,2024-02-05,Bakso Aci Frozen,Makanan,1,18500,18500,QRIS,Offline Store,Cinthia Kuswandari,Jatibening
+INV-1375,2024-02-05,Dimsum Ayam,Makanan,4,25500,102000,E-Wallet,Offline Store,Ayu Gunawan,Jatiasih
+INV-1376,2024-02-05,Bakso Aci Frozen,Makanan,8,18500,148000,Cash,WhatsApp,Putri Sitorus,Pondok Gede
+INV-1377,2024-02-05,Brownies Kukus,Kue,4,35500,142000,Cash,Instagram,Gatot Ramadan,Jatibening
+INV-1378,2024-02-05,Seblak Instan,Makanan,1,15500,15500,E-Wallet,Instagram,Cager Sitorus,Jatiasih
+INV-1379,2024-02-05,Brownies Kukus,Kue,8,35500,284000,Cash,Offline Store,Dinda Novitasari,Jatiasih
+INV-1380,2024-02-06,Rice Bowl Ayam,Makanan,6,30500,183000,E-Wallet,Shopee,Zelda Adriansyah,Cibubur
+INV-1381,2024-02-06,Rice Bowl Ayam,Makanan,9,30500,274500,QRIS,WhatsApp,Yani Saputra,Jatibening
+INV-1382,2024-02-06,Es Kopi Susu,Minuman,8,22500,180000,Cash,Instagram,"Puti Talia Hutagalung, M.Farm",Jatiasih
+INV-1383,2024-02-06,Es Kopi Susu,Minuman,3,22500,67500,QRIS,WhatsApp,"R. Ifa Pangestu, S.Psi",Jatiasih
+INV-1384,2024-02-06,Jus Alpukat,Minuman,10,18500,185000,Transfer Bank,Shopee,Viman Permadi,Jatiasih
+INV-1385,2024-02-06,Rice Bowl Ayam,Makanan,10,30500,305000,Transfer Bank,Shopee,Tgk. Shania Haryanti,Jatiasih
+INV-1386,2024-02-06,Brownies Kukus,Kue,9,35500,319500,E-Wallet,WhatsApp,"Hj. Kamaria Yuliarti, S.T.",Pondok Gede
+INV-1387,2024-02-07,Bakso Aci Frozen,Makanan,2,18500,37000,E-Wallet,Shopee,R.M. Soleh Maryati,Pondok Gede
+INV-1388,2024-02-07,Es Kopi Susu,Minuman,10,22500,225000,QRIS,Tokopedia,Carla Usamah,Jatiasih
+INV-1389,2024-02-07,Dimsum Ayam,Makanan,8,25500,204000,E-Wallet,WhatsApp,Kurnia Lestari,Jakarta Timur
+INV-1390,2024-02-07,Makaroni Pedas,Snack,1,10500,10500,E-Wallet,Shopee,Eluh Budiyanto,Jatibening
+INV-1391,2024-02-07,Dimsum Ayam,Makanan,6,25500,153000,Cash,Tokopedia,"Radit Pranowo, M.Pd",Depok
+INV-1392,2024-02-07,Jus Alpukat,Minuman,1,18500,18500,Transfer Bank,WhatsApp,Jamalia Farida,Bekasi Timur
+INV-1393,2024-02-07,Makaroni Pedas,Snack,5,10500,52500,E-Wallet,Offline Store,Bala Waskita,Jatiasih
+INV-1394,2024-02-07,Brownies Kukus,Kue,9,35500,319500,QRIS,Shopee,Lamar Kuswoyo,Bekasi Barat
+INV-1395,2024-02-07,Seblak Instan,Makanan,7,15500,108500,Cash,Offline Store,Martani Zulaika,Pondok Gede
+INV-1396,2024-02-07,Rice Bowl Ayam,Makanan,3,30500,91500,E-Wallet,Offline Store,Gabriella Sitorus,Pondok Gede
+INV-1397,2024-02-07,Bakso Aci Frozen,Makanan,1,18500,18500,Transfer Bank,WhatsApp,Vera Purwanti,Jatiasih
+INV-1398,2024-02-07,Brownies Kukus,Kue,9,35500,319500,Transfer Bank,Offline Store,"Olivia Halim, S.Sos",Bekasi Timur
+INV-1399,2024-02-08,Keripik Pisang,Snack,6,12500,75000,Transfer Bank,Instagram,Tasnim Puspasari,Bekasi Timur
+INV-1400,2024-02-08,Thai Tea,Minuman,5,20500,102500,Cash,Offline Store,Vega Safitri,Bekasi Barat
+INV-1401,2024-02-08,Makaroni Pedas,Snack,9,10500,94500,Cash,Instagram,"Queen Nashiruddin, S.E.I",Bekasi Barat
+INV-1402,2024-02-08,Bakso Aci Frozen,Makanan,6,18500,111000,QRIS,Instagram,Garda Sihombing,Pondok Gede
+INV-1403,2024-02-08,Thai Tea,Minuman,5,20500,102500,E-Wallet,WhatsApp,Tgk. Paulin Wacana,Bekasi Barat
+INV-1404,2024-02-08,Thai Tea,Minuman,10,20500,205000,QRIS,Offline Store,Ratna Hidayat,Depok
+INV-1405,2024-02-08,Brownies Kukus,Kue,3,35500,106500,E-Wallet,Shopee,"Bancar Wahyudin, M.Kom.",Jatiwaringin
+INV-1406,2024-02-08,Es Kopi Susu,Minuman,1,22500,22500,QRIS,Shopee,Dinda Zulkarnain,Pondok Gede
+INV-1407,2024-02-08,Bakso Aci Frozen,Makanan,8,18500,148000,E-Wallet,Shopee,"Azalea Adriansyah, S.Kom",Pondok Gede
+INV-1408,2024-02-08,Jus Alpukat,Minuman,4,18500,74000,E-Wallet,Tokopedia,"Ir. Kala Fujiati, S.Pt",Bekasi Barat
+INV-1409,2024-02-08,Keripik Pisang,Snack,9,12500,112500,Cash,Instagram,Hardi Nashiruddin,Bekasi Timur
+INV-1410,2024-02-08,Makaroni Pedas,Snack,7,10500,73500,Transfer Bank,Instagram,Harjasa Saptono,Jatiasih
+INV-1411,2024-02-08,Makaroni Pedas,Snack,6,10500,63000,Cash,WhatsApp,Indah Sihotang,Jatiwaringin
+INV-1412,2024-02-09,Brownies Kukus,Kue,4,35500,142000,Cash,Offline Store,"Ir. Bagya Mustofa, S.Farm",Jatiwaringin
+INV-1413,2024-02-09,Dimsum Ayam,Makanan,4,25500,102000,Cash,Shopee,Agnes Laksita,Jatibening
+INV-1414,2024-02-09,Brownies Kukus,Kue,6,35500,213000,Cash,Offline Store,drg. Mursinin Palastri,Pondok Gede
+INV-1415,2024-02-09,Dimsum Ayam,Makanan,5,25500,127500,E-Wallet,Instagram,Zelaya Gunarto,Pondok Gede
+INV-1416,2024-02-09,Rice Bowl Ayam,Makanan,3,30500,91500,QRIS,WhatsApp,Ami Thamrin,Pondok Gede
+INV-1417,2024-02-09,Seblak Instan,Makanan,6,15500,93000,Cash,Instagram,"Ir. Martani Prasetya, S.Kom",Pondok Gede
+INV-1418,2024-02-09,Es Kopi Susu,Minuman,4,22500,90000,Cash,Offline Store,Tari Haryanti,Bekasi Barat
+INV-1419,2024-02-09,Dimsum Ayam,Makanan,3,25500,76500,Transfer Bank,Shopee,Edward Maryadi,Cibubur
+INV-1420,2024-02-09,Bakso Aci Frozen,Makanan,9,18500,166500,Transfer Bank,Tokopedia,Rosman Irawan,Pondok Gede
+INV-1421,2024-02-09,Seblak Instan,Makanan,7,15500,108500,E-Wallet,Tokopedia,Irma Wahyuni,Jatiasih
+INV-1422,2024-02-09,Keripik Pisang,Snack,1,12500,12500,Transfer Bank,Instagram,Dono Suartini,Bekasi Timur
+INV-1423,2024-02-09,Brownies Kukus,Kue,8,35500,284000,Cash,WhatsApp,Nyoman Santoso,Pondok Gede
+INV-1424,2024-02-09,Dimsum Ayam,Makanan,1,25500,25500,Transfer Bank,Offline Store,Budi Pranowo,Jatibening
+INV-1425,2024-02-09,Bakso Aci Frozen,Makanan,3,18500,55500,Transfer Bank,Tokopedia,"Tgk. Lanang Aryani, S.E.I",Bekasi Barat
+INV-1426,2024-02-10,Brownies Kukus,Kue,3,35500,106500,QRIS,Tokopedia,Putri Safitri,Pondok Gede
+INV-1427,2024-02-10,Dimsum Ayam,Makanan,10,25500,255000,QRIS,WhatsApp,Hendri Mandasari,Bekasi Timur
+INV-1428,2024-02-10,Dimsum Ayam,Makanan,8,25500,204000,E-Wallet,Shopee,Laswi Dabukke,Pondok Gede
+INV-1429,2024-02-10,Makaroni Pedas,Snack,8,10500,84000,Transfer Bank,Tokopedia,Ajeng Prakasa,Jatiwaringin
+INV-1430,2024-02-10,Rice Bowl Ayam,Makanan,3,30500,91500,Cash,Shopee,"Ir. Ozy Jailani, S.Sos",Jatiwaringin
+INV-1431,2024-02-10,Bakso Aci Frozen,Makanan,6,18500,111000,Transfer Bank,Shopee,Panca Prasetyo,Pondok Gede
+INV-1432,2024-02-10,Thai Tea,Minuman,7,20500,143500,Cash,Tokopedia,"Ir. Amalia Hidayat, M.M.",Jatiasih
+INV-1433,2024-02-10,Jus Alpukat,Minuman,2,18500,37000,Transfer Bank,Instagram,Drs. Irma Hariyah,Pondok Gede
+INV-1434,2024-02-10,Rice Bowl Ayam,Makanan,4,30500,122000,Cash,Instagram,Clara Kurniawan,Jakarta Timur
+INV-1435,2024-02-10,Es Kopi Susu,Minuman,8,22500,180000,Cash,WhatsApp,"Puti Indah Widiastuti, M.M.",Bekasi Barat
+INV-1436,2024-02-10,Thai Tea,Minuman,10,20500,205000,Cash,WhatsApp,Satya Kusmawati,Pondok Gede
+INV-1437,2024-02-11,Bakso Aci Frozen,Makanan,2,18500,37000,Cash,Shopee,"Dr. Puspa Pangestu, M.TI.",Pondok Gede
+INV-1438,2024-02-11,Jus Alpukat,Minuman,9,18500,166500,QRIS,WhatsApp,Daryani Hakim,Cibubur
+INV-1439,2024-02-11,Rice Bowl Ayam,Makanan,10,30500,305000,Transfer Bank,Shopee,Puti Situmorang,Bekasi Barat
+INV-1440,2024-02-11,Brownies Kukus,Kue,3,35500,106500,Cash,Instagram,T. Edward Salahudin,Jatiwaringin
+INV-1441,2024-02-11,Makaroni Pedas,Snack,8,10500,84000,Transfer Bank,Shopee,"Cakrawala Nasyiah, S.IP",Jatibening
+INV-1442,2024-02-11,Thai Tea,Minuman,2,20500,41000,E-Wallet,Offline Store,Ilsa Lailasari,Bekasi Selatan
+INV-1443,2024-02-11,Rice Bowl Ayam,Makanan,2,30500,61000,QRIS,Tokopedia,Cagak Prakasa,Bekasi Timur
+INV-1444,2024-02-11,Makaroni Pedas,Snack,9,10500,94500,Transfer Bank,Shopee,Ade Mardhiyah,Jakarta Timur
+INV-1445,2024-02-12,Makaroni Pedas,Snack,8,10500,84000,Transfer Bank,Offline Store,"Sutan Kasiran Novitasari, S.Farm",Depok
+INV-1446,2024-02-12,Brownies Kukus,Kue,2,35500,71000,E-Wallet,Tokopedia,Prasetyo Waluyo,Bekasi Timur
+INV-1447,2024-02-12,Brownies Kukus,Kue,3,35500,106500,E-Wallet,Instagram,Hasim Tampubolon,Jatibening
+INV-1448,2024-02-12,Thai Tea,Minuman,1,20500,20500,E-Wallet,WhatsApp,Nrima Pradana,Bekasi Barat
+INV-1449,2024-02-12,Bakso Aci Frozen,Makanan,7,18500,129500,QRIS,Shopee,Drs. Tasnim Natsir,Cibubur
+INV-1450,2024-02-12,Thai Tea,Minuman,2,20500,41000,E-Wallet,WhatsApp,Gabriella Irawan,Bekasi Barat
+INV-1451,2024-02-12,Seblak Instan,Makanan,9,15500,139500,QRIS,Instagram,Kayun Najmudin,Depok
+INV-1452,2024-02-12,Bakso Aci Frozen,Makanan,5,18500,92500,Transfer Bank,Shopee,"Lukita Pudjiastuti, S.H.",Jatiwaringin
+INV-1453,2024-02-12,Jus Alpukat,Minuman,6,18500,111000,E-Wallet,Instagram,Wahyu Haryanto,Bekasi Barat
+INV-1454,2024-02-12,Jus Alpukat,Minuman,2,18500,37000,Transfer Bank,WhatsApp,KH. Karna Purnawati,Pondok Gede
+INV-1455,2024-02-13,Keripik Pisang,Snack,9,12500,112500,Transfer Bank,Shopee,"Dipa Sihotang, S.Sos",Pondok Gede
+INV-1456,2024-02-13,Bakso Aci Frozen,Makanan,1,18500,18500,E-Wallet,Offline Store,Jayadi Puspita,Bekasi Timur
+INV-1457,2024-02-13,Jus Alpukat,Minuman,9,18500,166500,Transfer Bank,Shopee,"Ana Nugroho, S.Ked",Jatiwaringin
+INV-1458,2024-02-13,Brownies Kukus,Kue,6,35500,213000,Cash,Shopee,Bakijan Hidayat,Bekasi Barat
+INV-1459,2024-02-13,Seblak Instan,Makanan,1,15500,15500,QRIS,Shopee,Amelia Puspasari,Bekasi Timur
+INV-1460,2024-02-13,Es Kopi Susu,Minuman,2,22500,45000,QRIS,Instagram,Suci Kusumo,Pondok Gede
+INV-1461,2024-02-14,Bakso Aci Frozen,Makanan,4,18500,74000,E-Wallet,Instagram,Sutan Makara Simbolon,Pondok Gede
+INV-1462,2024-02-14,Es Kopi Susu,Minuman,9,22500,202500,QRIS,Shopee,Candrakanta Kurniawan,Pondok Gede
+INV-1463,2024-02-14,Makaroni Pedas,Snack,5,10500,52500,Cash,Offline Store,Lili Ramadan,Pondok Gede
+INV-1464,2024-02-14,Thai Tea,Minuman,6,20500,123000,Cash,Shopee,"KH. Among Pertiwi, M.M.",Jatiasih
+INV-1465,2024-02-14,Makaroni Pedas,Snack,4,10500,42000,Cash,WhatsApp,"Dr. Asirwada Suryatmi, S.Pd",Bekasi Barat
+INV-1466,2024-02-14,Bakso Aci Frozen,Makanan,9,18500,166500,Transfer Bank,Instagram,dr. Agus Yuliarti,Pondok Gede
+INV-1467,2024-02-14,Makaroni Pedas,Snack,8,10500,84000,Cash,Instagram,Zamira Lestari,Pondok Gede
+INV-1468,2024-02-14,Makaroni Pedas,Snack,6,10500,63000,E-Wallet,Shopee,dr. Calista Narpati,Jatibening
+INV-1469,2024-02-14,Dimsum Ayam,Makanan,7,25500,178500,E-Wallet,Shopee,Jati Permadi,Jatibening
+INV-1470,2024-02-14,Es Kopi Susu,Minuman,5,22500,112500,E-Wallet,Tokopedia,"Cut Vera Yuniar, M.Farm",Pondok Gede
+INV-1471,2024-02-14,Makaroni Pedas,Snack,7,10500,73500,Transfer Bank,Instagram,"Hafshah Winarno, S.E.I",Jatiasih
+INV-1472,2024-02-14,Es Kopi Susu,Minuman,5,22500,112500,Cash,Tokopedia,Taufan Adriansyah,Bekasi Barat
+INV-1473,2024-02-14,Brownies Kukus,Kue,6,35500,213000,Transfer Bank,Tokopedia,Dagel Thamrin,Jatiasih
+INV-1474,2024-02-14,Dimsum Ayam,Makanan,7,25500,178500,QRIS,Tokopedia,Ir. Balijan Nashiruddin,Pondok Gede
+INV-1475,2024-02-15,Thai Tea,Minuman,9,20500,184500,E-Wallet,Shopee,Umay Haryanto,Jatiasih
+INV-1476,2024-02-15,Rice Bowl Ayam,Makanan,5,30500,152500,Transfer Bank,Shopee,Karen Kurniawan,Depok
+INV-1477,2024-02-15,Seblak Instan,Makanan,8,15500,124000,Transfer Bank,Instagram,Karen Januar,Bekasi Timur
+INV-1478,2024-02-15,Es Kopi Susu,Minuman,9,22500,202500,Cash,Instagram,"dr. Hartana Usada, S.H.",Jatibening
+INV-1479,2024-02-15,Brownies Kukus,Kue,9,35500,319500,Cash,WhatsApp,Garda Hartati,Cibubur
+INV-1480,2024-02-15,Rice Bowl Ayam,Makanan,9,30500,274500,E-Wallet,Tokopedia,Zalindra Handayani,Jatiwaringin
+INV-1481,2024-02-15,Brownies Kukus,Kue,6,35500,213000,Cash,WhatsApp,dr. Jatmiko Putra,Jatiasih
+INV-1482,2024-02-15,Jus Alpukat,Minuman,1,18500,18500,Transfer Bank,Shopee,R. Nugraha Rahimah,Pondok Gede
+INV-1483,2024-02-16,Dimsum Ayam,Makanan,9,25500,229500,E-Wallet,WhatsApp,Fitriani Handayani,Jatiasih
+INV-1484,2024-02-16,Keripik Pisang,Snack,4,12500,50000,Transfer Bank,Instagram,Zamira Suryatmi,Jatiwaringin
+INV-1485,2024-02-16,Thai Tea,Minuman,4,20500,82000,Cash,WhatsApp,Gabriella Lailasari,Cibubur
+INV-1486,2024-02-16,Brownies Kukus,Kue,8,35500,284000,Transfer Bank,WhatsApp,Silvia Laksita,Jakarta Timur
+INV-1487,2024-02-16,Keripik Pisang,Snack,3,12500,37500,E-Wallet,Shopee,"H. Nasab Kuswandari, M.M.",Jatiasih
+INV-1488,2024-02-17,Bakso Aci Frozen,Makanan,9,18500,166500,QRIS,Tokopedia,Farah Rajasa,Jatiwaringin
+INV-1489,2024-02-17,Bakso Aci Frozen,Makanan,7,18500,129500,Transfer Bank,Tokopedia,"Icha Rahayu, S.Kom",Bekasi Barat
+INV-1490,2024-02-17,Keripik Pisang,Snack,1,12500,12500,E-Wallet,WhatsApp,Rachel Kurniawan,Bekasi Timur
+INV-1491,2024-02-17,Bakso Aci Frozen,Makanan,10,18500,185000,E-Wallet,Tokopedia,Nadia Waluyo,Pondok Gede
+INV-1492,2024-02-17,Bakso Aci Frozen,Makanan,9,18500,166500,E-Wallet,Tokopedia,Gasti Hidayat,Pondok Gede
+INV-1493,2024-02-17,Bakso Aci Frozen,Makanan,9,18500,166500,Cash,Tokopedia,Rachel Wasita,Jatiasih
+INV-1494,2024-02-17,Makaroni Pedas,Snack,7,10500,73500,QRIS,Tokopedia,Lukita Lailasari,Pondok Gede
+INV-1495,2024-02-17,Makaroni Pedas,Snack,3,10500,31500,Transfer Bank,Offline Store,drg. Daliman Prakasa,Jatiasih
+INV-1496,2024-02-17,Makaroni Pedas,Snack,5,10500,52500,Cash,Instagram,Wirda Habibi,Jatibening
+INV-1497,2024-02-17,Seblak Instan,Makanan,6,15500,93000,E-Wallet,Offline Store,"Cinthia Suryono, S.Gz",Jatiasih
+INV-1498,2024-02-17,Es Kopi Susu,Minuman,4,22500,90000,QRIS,Tokopedia,"Tgk. Baktianto Yulianti, S.Pt",Pondok Gede
+INV-1499,2024-02-17,Seblak Instan,Makanan,7,15500,108500,E-Wallet,Offline Store,Ir. Artanto Pradana,Bekasi Barat
+INV-1500,2024-02-17,Brownies Kukus,Kue,1,35500,35500,Transfer Bank,Tokopedia,Lili Dongoran,Pondok Gede
+INV-1501,2024-02-18,Jus Alpukat,Minuman,6,18500,111000,QRIS,Offline Store,Rizki Latupono,Bekasi Timur
+INV-1502,2024-02-18,Bakso Aci Frozen,Makanan,4,18500,74000,E-Wallet,WhatsApp,"Nugraha Saptono, M.Kom.",Pondok Gede
+INV-1503,2024-02-18,Bakso Aci Frozen,Makanan,2,18500,37000,QRIS,Shopee,Radika Sirait,Jatiasih
+INV-1504,2024-02-18,Rice Bowl Ayam,Makanan,1,30500,30500,Transfer Bank,Instagram,"Niyaga Safitri, S.Farm",Bekasi Timur
+INV-1505,2024-02-18,Seblak Instan,Makanan,5,15500,77500,Transfer Bank,Offline Store,Anggabaya Agustina,Pondok Gede
+INV-1506,2024-02-18,Jus Alpukat,Minuman,9,18500,166500,E-Wallet,Shopee,"Najwa Dongoran, M.TI.",Bekasi Timur
+INV-1507,2024-02-18,Seblak Instan,Makanan,9,15500,139500,QRIS,Tokopedia,Indah Yolanda,Pondok Gede
+INV-1508,2024-02-18,Jus Alpukat,Minuman,4,18500,74000,Cash,Offline Store,Anggabaya Susanti,Bekasi Barat
+INV-1509,2024-02-18,Thai Tea,Minuman,10,20500,205000,Cash,Tokopedia,Farhunnisa Sihotang,Pondok Gede
+INV-1510,2024-02-18,Dimsum Ayam,Makanan,8,25500,204000,Transfer Bank,WhatsApp,"Cahya Mardhiyah, S.H.",Jatiasih
+INV-1511,2024-02-18,Makaroni Pedas,Snack,7,10500,73500,Transfer Bank,Offline Store,"Tina Putra, S.Pd",Pondok Gede
+INV-1512,2024-02-18,Jus Alpukat,Minuman,2,18500,37000,Transfer Bank,Tokopedia,"Tina Astuti, S.Gz",Jatiasih
+INV-1513,2024-02-19,Dimsum Ayam,Makanan,3,25500,76500,Transfer Bank,Instagram,"Ir. Hana Nasyiah, S.Farm",Jatiwaringin
+INV-1514,2024-02-19,Rice Bowl Ayam,Makanan,6,30500,183000,QRIS,Tokopedia,R.A. Yessi Jailani,Jatiasih
+INV-1515,2024-02-19,Dimsum Ayam,Makanan,8,25500,204000,Cash,Tokopedia,"dr. Omar Nainggolan, M.Kom.",Jatiwaringin
+INV-1516,2024-02-19,Keripik Pisang,Snack,2,12500,25000,E-Wallet,Instagram,Intan Marbun,Cibubur
+INV-1517,2024-02-19,Makaroni Pedas,Snack,9,10500,94500,E-Wallet,Tokopedia,Vicky Damanik,Pondok Gede
+INV-1518,2024-02-19,Bakso Aci Frozen,Makanan,2,18500,37000,QRIS,Offline Store,dr. Jaga Padmasari,Pondok Gede
+INV-1519,2024-02-20,Rice Bowl Ayam,Makanan,7,30500,213500,Cash,Instagram,Galar Haryanti,Pondok Gede
+INV-1520,2024-02-20,Jus Alpukat,Minuman,2,18500,37000,Transfer Bank,Offline Store,Adhiarja Mahendra,Bekasi Barat
+INV-1521,2024-02-20,Makaroni Pedas,Snack,3,10500,31500,Transfer Bank,Shopee,Tania Santoso,Bekasi Selatan
+INV-1522,2024-02-20,Dimsum Ayam,Makanan,5,25500,127500,E-Wallet,Shopee,"Puti Kania Maheswara, M.Pd",Jatiasih
+INV-1523,2024-02-20,Seblak Instan,Makanan,3,15500,46500,Cash,Instagram,Samiah Mandasari,Bekasi Timur
+INV-1524,2024-02-20,Dimsum Ayam,Makanan,8,25500,204000,Cash,WhatsApp,Raisa Wastuti,Jatiwaringin
+INV-1525,2024-02-20,Es Kopi Susu,Minuman,8,22500,180000,Transfer Bank,Instagram,Jumari Handayani,Bekasi Timur
+INV-1526,2024-02-20,Seblak Instan,Makanan,3,15500,46500,QRIS,Instagram,"Endah Widiastuti, M.TI.",Jatiwaringin
+INV-1527,2024-02-20,Rice Bowl Ayam,Makanan,10,30500,305000,Cash,Instagram,Nadia Prasetyo,Jakarta Timur
+INV-1528,2024-02-20,Rice Bowl Ayam,Makanan,7,30500,213500,Transfer Bank,WhatsApp,Tania Hidayat,Pondok Gede
+INV-1529,2024-02-20,Rice Bowl Ayam,Makanan,10,30500,305000,E-Wallet,WhatsApp,"Ir. Galak Mansur, S.I.Kom",Pondok Gede
+INV-1530,2024-02-20,Keripik Pisang,Snack,7,12500,87500,Cash,Instagram,Kania Hutapea,Pondok Gede
+INV-1531,2024-02-20,Thai Tea,Minuman,4,20500,82000,E-Wallet,WhatsApp,"Anita Mayasari, S.T.",Pondok Gede
+INV-1532,2024-02-20,Jus Alpukat,Minuman,6,18500,111000,Transfer Bank,Offline Store,R.M. Jasmani Wijayanti,Jatibening
+INV-1533,2024-02-21,Keripik Pisang,Snack,9,12500,112500,E-Wallet,Shopee,Dr. Vanya Sihotang,Bekasi Timur
+INV-1534,2024-02-21,Brownies Kukus,Kue,5,35500,177500,E-Wallet,Instagram,"Safina Siregar, M.M.",Pondok Gede
+INV-1535,2024-02-21,Keripik Pisang,Snack,5,12500,62500,Cash,Shopee,Niyaga Samosir,Jatibening
+INV-1536,2024-02-21,Jus Alpukat,Minuman,7,18500,129500,E-Wallet,Offline Store,Sutan Mahdi Yolanda,Jatiwaringin
+INV-1537,2024-02-21,Brownies Kukus,Kue,10,35500,355000,E-Wallet,Offline Store,"Warsita Thamrin, S.Pd",Pondok Gede
+INV-1538,2024-02-21,Bakso Aci Frozen,Makanan,6,18500,111000,QRIS,Tokopedia,Gilda Maryati,Bekasi Timur
+INV-1539,2024-02-21,Es Kopi Susu,Minuman,6,22500,135000,QRIS,Offline Store,Artawan Megantara,Jatiwaringin
+INV-1540,2024-02-21,Jus Alpukat,Minuman,6,18500,111000,QRIS,Tokopedia,"Puti Victoria Anggraini, S.E.I",Pondok Gede
+INV-1541,2024-02-21,Seblak Instan,Makanan,5,15500,77500,Transfer Bank,Instagram,Ir. Yulia Siregar,Jatiwaringin
+INV-1542,2024-02-21,Rice Bowl Ayam,Makanan,7,30500,213500,Transfer Bank,WhatsApp,Kayla Firmansyah,Jakarta Timur
+INV-1543,2024-02-21,Bakso Aci Frozen,Makanan,8,18500,148000,Cash,Instagram,Laras Setiawan,Pondok Gede
+INV-1544,2024-02-21,Seblak Instan,Makanan,2,15500,31000,Cash,WhatsApp,Tgk. Belinda Kusmawati,Pondok Gede
+INV-1545,2024-02-21,Rice Bowl Ayam,Makanan,8,30500,244000,E-Wallet,WhatsApp,Hj. Rahmi Napitupulu,Jatiasih
+INV-1546,2024-02-22,Seblak Instan,Makanan,8,15500,124000,Cash,Tokopedia,Halima Damanik,Jatibening
+INV-1547,2024-02-22,Dimsum Ayam,Makanan,1,25500,25500,QRIS,WhatsApp,Violet Mayasari,Jakarta Timur
+INV-1548,2024-02-22,Seblak Instan,Makanan,3,15500,46500,Transfer Bank,Offline Store,Yoga Sitorus,Jatiasih
+INV-1549,2024-02-22,Keripik Pisang,Snack,6,12500,75000,E-Wallet,Instagram,Damu Damanik,Jatibening
+INV-1550,2024-02-22,Es Kopi Susu,Minuman,7,22500,157500,Transfer Bank,Instagram,"R.M. Dimas Putra, S.IP",Pondok Gede
+INV-1551,2024-02-22,Jus Alpukat,Minuman,1,18500,18500,E-Wallet,Offline Store,"Dinda Agustina, S.I.Kom",Jatibening
+INV-1552,2024-02-22,Jus Alpukat,Minuman,7,18500,129500,Transfer Bank,Shopee,Hj. Titi Pradana,Bekasi Timur
+INV-1553,2024-02-22,Dimsum Ayam,Makanan,2,25500,51000,QRIS,Offline Store,Hj. Alika Anggraini,Pondok Gede
+INV-1554,2024-02-22,Keripik Pisang,Snack,6,12500,75000,Transfer Bank,Instagram,"Ophelia Saefullah, M.TI.",Jatiwaringin
+INV-1555,2024-02-22,Seblak Instan,Makanan,5,15500,77500,Cash,Offline Store,Zamira Wacana,Cibubur
+INV-1556,2024-02-22,Jus Alpukat,Minuman,10,18500,185000,QRIS,WhatsApp,Safina Manullang,Bekasi Timur
+INV-1557,2024-02-22,Rice Bowl Ayam,Makanan,8,30500,244000,Cash,Offline Store,R. Baktiadi Nasyiah,Pondok Gede
+INV-1558,2024-02-23,Seblak Instan,Makanan,3,15500,46500,QRIS,Shopee,Agnes Rahayu,Bekasi Selatan
+INV-1559,2024-02-23,Dimsum Ayam,Makanan,2,25500,51000,Cash,Shopee,Rahmi Suwarno,Jatiwaringin
+INV-1560,2024-02-23,Makaroni Pedas,Snack,7,10500,73500,Transfer Bank,Offline Store,Jasmin Pradana,Jatiasih
+INV-1561,2024-02-23,Jus Alpukat,Minuman,7,18500,129500,E-Wallet,Offline Store,"Tari Kuswandari, S.H.",Jatiasih
+INV-1562,2024-02-23,Keripik Pisang,Snack,9,12500,112500,E-Wallet,WhatsApp,Vanya Andriani,Jatiasih
+INV-1563,2024-02-23,Keripik Pisang,Snack,3,12500,37500,E-Wallet,Offline Store,"Dt. Joko Oktaviani, M.Kom.",Bekasi Barat
+INV-1564,2024-02-23,Bakso Aci Frozen,Makanan,6,18500,111000,E-Wallet,Shopee,Ilsa Nainggolan,Jatiasih
+INV-1565,2024-02-23,Es Kopi Susu,Minuman,7,22500,157500,E-Wallet,Instagram,Harsanto Namaga,Cibubur
+INV-1566,2024-02-23,Brownies Kukus,Kue,7,35500,248500,E-Wallet,Shopee,"Drs. Nadia Marpaung, M.M.",Cibubur
+INV-1567,2024-02-23,Seblak Instan,Makanan,10,15500,155000,Transfer Bank,WhatsApp,"Drs. Aurora Kurniawan, S.Psi",Pondok Gede
+INV-1568,2024-02-23,Bakso Aci Frozen,Makanan,5,18500,92500,Cash,Shopee,Yusuf Nashiruddin,Jakarta Timur
+INV-1569,2024-02-23,Brownies Kukus,Kue,10,35500,355000,QRIS,Offline Store,Rachel Firmansyah,Bekasi Timur
+INV-1570,2024-02-23,Seblak Instan,Makanan,5,15500,77500,Cash,Offline Store,drg. Rama Zulkarnain,Cibubur
+INV-1571,2024-02-23,Bakso Aci Frozen,Makanan,8,18500,148000,Transfer Bank,Instagram,"Alika Hardiansyah, S.Farm",Jatibening
+INV-1572,2024-02-24,Es Kopi Susu,Minuman,5,22500,112500,E-Wallet,WhatsApp,Erik Mardhiyah,Jatiasih
+INV-1573,2024-02-24,Rice Bowl Ayam,Makanan,2,30500,61000,QRIS,Shopee,Dt. Jarwi Iswahyudi,Jatibening
+INV-1574,2024-02-24,Es Kopi Susu,Minuman,10,22500,225000,E-Wallet,Shopee,Dewi Handayani,Jakarta Timur
+INV-1575,2024-02-24,Thai Tea,Minuman,3,20500,61500,Transfer Bank,Tokopedia,"Dt. Baktianto Nashiruddin, S.Farm",Pondok Gede
+INV-1576,2024-02-24,Thai Tea,Minuman,6,20500,123000,Cash,Offline Store,drg. Enteng Uwais,Jatiwaringin
+INV-1577,2024-02-24,Makaroni Pedas,Snack,3,10500,31500,Cash,WhatsApp,"Nova Pertiwi, S.Ked",Bekasi Barat
+INV-1578,2024-02-25,Dimsum Ayam,Makanan,9,25500,229500,Transfer Bank,Instagram,"Drs. Dina Iswahyudi, S.Farm",Bekasi Barat
+INV-1579,2024-02-25,Bakso Aci Frozen,Makanan,5,18500,92500,Transfer Bank,Shopee,"Ir. Gatra Napitupulu, S.Psi",Jatiasih
+INV-1580,2024-02-25,Keripik Pisang,Snack,6,12500,75000,E-Wallet,Instagram,Nyoman Anggriawan,Jatibening
+INV-1581,2024-02-25,Keripik Pisang,Snack,10,12500,125000,E-Wallet,Instagram,Hamima Pranowo,Pondok Gede
+INV-1582,2024-02-25,Brownies Kukus,Kue,2,35500,71000,E-Wallet,Offline Store,Victoria Andriani,Cibubur
+INV-1583,2024-02-25,Dimsum Ayam,Makanan,6,25500,153000,E-Wallet,WhatsApp,"Cahyono Marpaung, M.Farm",Cibubur
+INV-1584,2024-02-25,Thai Tea,Minuman,1,20500,20500,E-Wallet,WhatsApp,R. Raina Wasita,Pondok Gede
+INV-1585,2024-02-25,Seblak Instan,Makanan,9,15500,139500,Transfer Bank,Instagram,Padma Putra,Depok
+INV-1586,2024-02-25,Es Kopi Susu,Minuman,8,22500,180000,Cash,WhatsApp,Marwata Rahimah,Pondok Gede
+INV-1587,2024-02-25,Rice Bowl Ayam,Makanan,9,30500,274500,Transfer Bank,Offline Store,"Radit Sihombing, S.Gz",Bekasi Barat
+INV-1588,2024-02-25,Brownies Kukus,Kue,6,35500,213000,QRIS,Tokopedia,Salsabila Prasetyo,Bekasi Timur
+INV-1589,2024-02-25,Brownies Kukus,Kue,1,35500,35500,Transfer Bank,Instagram,drg. Kawaya Lazuardi,Jatiasih
+INV-1590,2024-02-25,Brownies Kukus,Kue,1,35500,35500,Transfer Bank,Shopee,Kasim Kusmawati,Pondok Gede
+INV-1591,2024-02-25,Dimsum Ayam,Makanan,3,25500,76500,QRIS,WhatsApp,Rahayu Handayani,Cibubur
+INV-1592,2024-02-26,Seblak Instan,Makanan,6,15500,93000,QRIS,Instagram,"Drs. Jati Irawan, S.Ked",Pondok Gede
+INV-1593,2024-02-26,Dimsum Ayam,Makanan,4,25500,102000,QRIS,Tokopedia,Sakti Winarsih,Pondok Gede
+INV-1594,2024-02-26,Bakso Aci Frozen,Makanan,4,18500,74000,QRIS,Shopee,Endah Iswahyudi,Jatiwaringin
+INV-1595,2024-02-26,Thai Tea,Minuman,4,20500,82000,E-Wallet,Tokopedia,Jaswadi Hartati,Jatiasih
+INV-1596,2024-02-26,Bakso Aci Frozen,Makanan,6,18500,111000,E-Wallet,Shopee,Drs. Melinda Haryanti,Depok
+INV-1597,2024-02-26,Brownies Kukus,Kue,2,35500,71000,E-Wallet,Tokopedia,Mahesa Namaga,Jatibening
+INV-1598,2024-02-26,Seblak Instan,Makanan,2,15500,31000,Cash,WhatsApp,Unggul Pertiwi,Pondok Gede
+INV-1599,2024-02-26,Keripik Pisang,Snack,7,12500,87500,Transfer Bank,Tokopedia,"Cut Iriana Laksmiwati, S.Psi",Pondok Gede
+INV-1600,2024-02-26,Makaroni Pedas,Snack,10,10500,105000,Transfer Bank,Instagram,Tari Samosir,Jakarta Timur
+INV-1601,2024-02-27,Es Kopi Susu,Minuman,3,22500,67500,E-Wallet,Shopee,Bahuwirya Puspita,Pondok Gede
+INV-1602,2024-02-27,Seblak Instan,Makanan,2,15500,31000,QRIS,Offline Store,Aurora Hutapea,Jatibening
+INV-1603,2024-02-27,Jus Alpukat,Minuman,6,18500,111000,Cash,Shopee,R.A. Victoria Yulianti,Bekasi Barat
+INV-1604,2024-02-27,Es Kopi Susu,Minuman,5,22500,112500,Transfer Bank,Offline Store,"Ir. Puspa Salahudin, S.Kom",Jatiwaringin
+INV-1605,2024-02-27,Thai Tea,Minuman,10,20500,205000,Cash,Tokopedia,"Cemeti Nashiruddin, M.Kom.",Jatibening
+INV-1606,2024-02-27,Dimsum Ayam,Makanan,4,25500,102000,Transfer Bank,Instagram,Shakila Laksita,Bekasi Timur
+INV-1607,2024-02-27,Dimsum Ayam,Makanan,1,25500,25500,E-Wallet,Instagram,Kamila Januar,Bekasi Barat
+INV-1608,2024-02-27,Seblak Instan,Makanan,4,15500,62000,QRIS,Offline Store,Maman Yolanda,Jatiwaringin
+INV-1609,2024-02-27,Bakso Aci Frozen,Makanan,6,18500,111000,Transfer Bank,Instagram,Pia Wijaya,Pondok Gede
+INV-1610,2024-02-27,Thai Tea,Minuman,7,20500,143500,Transfer Bank,Instagram,Opan Mansur,Pondok Gede
+INV-1611,2024-02-28,Bakso Aci Frozen,Makanan,10,18500,185000,QRIS,WhatsApp,Clara Winarno,Jatibening
+INV-1612,2024-02-28,Es Kopi Susu,Minuman,1,22500,22500,E-Wallet,Offline Store,Karsa Usamah,Jatiasih
+INV-1613,2024-02-28,Dimsum Ayam,Makanan,9,25500,229500,E-Wallet,Instagram,"Hj. Talia Prastuti, S.Sos",Bekasi Timur
+INV-1614,2024-02-28,Seblak Instan,Makanan,9,15500,139500,Transfer Bank,WhatsApp,"Dewi Nashiruddin, S.I.Kom",Bekasi Barat
+INV-1615,2024-02-28,Seblak Instan,Makanan,5,15500,77500,Transfer Bank,Shopee,"Cut Cornelia Hastuti, M.Farm",Bekasi Barat
+INV-1616,2024-02-28,Makaroni Pedas,Snack,6,10500,63000,QRIS,WhatsApp,R.M. Balijan Permata,Jatiasih
+INV-1617,2024-02-29,Es Kopi Susu,Minuman,1,22500,22500,QRIS,Instagram,"Oni Puspasari, S.Psi",Jatiwaringin
+INV-1618,2024-02-29,Seblak Instan,Makanan,8,15500,124000,QRIS,WhatsApp,Laswi Winarsih,Jatiasih
+INV-1619,2024-02-29,Keripik Pisang,Snack,2,12500,25000,Transfer Bank,Tokopedia,Hasna Rahayu,Jatibening
+INV-1620,2024-02-29,Keripik Pisang,Snack,8,12500,100000,Cash,Shopee,drg. Paiman Samosir,Pondok Gede
+INV-1621,2024-02-29,Rice Bowl Ayam,Makanan,3,30500,91500,QRIS,Tokopedia,Kamal Rahayu,Pondok Gede
+INV-1622,2024-02-29,Rice Bowl Ayam,Makanan,7,30500,213500,QRIS,WhatsApp,Vanesa Pranowo,Pondok Gede
+INV-1623,2024-02-29,Thai Tea,Minuman,2,20500,41000,E-Wallet,Offline Store,dr. Emin Anggraini,Pondok Gede
+INV-1624,2024-02-29,Rice Bowl Ayam,Makanan,1,30500,30500,Transfer Bank,WhatsApp,Catur Mandasari,Pondok Gede
+INV-1625,2024-02-29,Keripik Pisang,Snack,5,12500,62500,QRIS,Shopee,Sari Simbolon,Bekasi Barat
+INV-1626,2024-02-29,Makaroni Pedas,Snack,1,10500,10500,QRIS,Shopee,"R.A. Putri Mangunsong, S.Kom",Jatiwaringin
+INV-1627,2024-02-29,Bakso Aci Frozen,Makanan,8,18500,148000,E-Wallet,Shopee,Lutfan Sitorus,Pondok Gede
+INV-1628,2024-03-01,Bakso Aci Frozen,Makanan,9,18500,166500,Transfer Bank,WhatsApp,"Tgk. Dodo Rajata, M.Ak",Pondok Gede
+INV-1629,2024-03-01,Es Kopi Susu,Minuman,7,22500,157500,Cash,Tokopedia,"R.A. Tania Pratama, S.Kom",Bekasi Barat
+INV-1630,2024-03-01,Thai Tea,Minuman,6,20500,123000,QRIS,Shopee,Pangeran Utami,Jatibening
+INV-1631,2024-03-01,Es Kopi Susu,Minuman,9,22500,202500,E-Wallet,Tokopedia,"Ir. Zelda Nasyiah, M.Farm",Bekasi Selatan
+INV-1632,2024-03-01,Brownies Kukus,Kue,5,35500,177500,Cash,Tokopedia,Edison Pangestu,Bekasi Barat
+INV-1633,2024-03-01,Makaroni Pedas,Snack,8,10500,84000,Cash,Shopee,Pangeran Saputra,Pondok Gede
+INV-1634,2024-03-01,Dimsum Ayam,Makanan,10,25500,255000,Transfer Bank,Instagram,"Cut Ira Widodo, S.Sos",Pondok Gede
+INV-1635,2024-03-02,Thai Tea,Minuman,8,20500,164000,Transfer Bank,Shopee,Edi Maryati,Pondok Gede
+INV-1636,2024-03-02,Bakso Aci Frozen,Makanan,7,18500,129500,Transfer Bank,Offline Store,Karma Nasyidah,Pondok Gede
+INV-1637,2024-03-02,Rice Bowl Ayam,Makanan,1,30500,30500,QRIS,Instagram,"R.M. Caturangga Budiyanto, M.Farm",Pondok Gede
+INV-1638,2024-03-02,Dimsum Ayam,Makanan,2,25500,51000,Transfer Bank,Instagram,Humaira Farida,Pondok Gede
+INV-1639,2024-03-02,Brownies Kukus,Kue,1,35500,35500,Cash,Tokopedia,Darimin Suryono,Bekasi Barat
+INV-1640,2024-03-02,Bakso Aci Frozen,Makanan,4,18500,74000,E-Wallet,WhatsApp,Banawi Waskita,Pondok Gede
+INV-1641,2024-03-02,Brownies Kukus,Kue,2,35500,71000,QRIS,Offline Store,Olga Pradipta,Bekasi Selatan
+INV-1642,2024-03-02,Keripik Pisang,Snack,7,12500,87500,QRIS,Instagram,"Lalita Prastuti, M.Kom.",Bekasi Barat
+INV-1643,2024-03-02,Keripik Pisang,Snack,4,12500,50000,Cash,WhatsApp,Winda Sihotang,Jatibening
+INV-1644,2024-03-02,Jus Alpukat,Minuman,6,18500,111000,E-Wallet,WhatsApp,Umar Kusmawati,Pondok Gede
+INV-1645,2024-03-03,Seblak Instan,Makanan,4,15500,62000,QRIS,Shopee,R. Budi Wulandari,Cibubur
+INV-1646,2024-03-03,Seblak Instan,Makanan,3,15500,46500,E-Wallet,WhatsApp,"Hj. Irma Hastuti, S.Pd",Bekasi Barat
+INV-1647,2024-03-03,Jus Alpukat,Minuman,2,18500,37000,Cash,Shopee,"Jaeman Hardiansyah, M.Kom.",Cibubur
+INV-1648,2024-03-03,Brownies Kukus,Kue,5,35500,177500,Cash,Tokopedia,Edison Habibi,Bekasi Timur
+INV-1649,2024-03-03,Seblak Instan,Makanan,3,15500,46500,QRIS,Shopee,Drajat Mustofa,Bekasi Barat
+INV-1650,2024-03-03,Rice Bowl Ayam,Makanan,3,30500,91500,Transfer Bank,WhatsApp,Puti Maida Padmasari,Bekasi Barat
+INV-1651,2024-03-03,Jus Alpukat,Minuman,9,18500,166500,Cash,WhatsApp,Bagus Sihombing,Pondok Gede
+INV-1652,2024-03-03,Keripik Pisang,Snack,1,12500,12500,E-Wallet,Offline Store,Rahayu Manullang,Pondok Gede
+INV-1653,2024-03-04,Es Kopi Susu,Minuman,2,22500,45000,QRIS,Shopee,Puti Rachel Nurdiyanti,Jakarta Timur
+INV-1654,2024-03-04,Seblak Instan,Makanan,1,15500,15500,Transfer Bank,Shopee,Winda Rahimah,Bekasi Barat
+INV-1655,2024-03-04,Es Kopi Susu,Minuman,7,22500,157500,QRIS,Offline Store,"Latika Jailani, M.Ak",Cibubur
+INV-1656,2024-03-04,Thai Tea,Minuman,5,20500,102500,QRIS,Tokopedia,"Radit Tampubolon, S.Kom",Jatiasih
+INV-1657,2024-03-04,Es Kopi Susu,Minuman,8,22500,180000,QRIS,WhatsApp,"Drs. Genta Marpaung, S.Pt",Pondok Gede
+INV-1658,2024-03-04,Seblak Instan,Makanan,1,15500,15500,QRIS,Shopee,Sutan Yahya Mardhiyah,Bekasi Timur
+INV-1659,2024-03-04,Thai Tea,Minuman,7,20500,143500,E-Wallet,Tokopedia,"Tgk. Irfan Purwanti, S.E.",Pondok Gede
+INV-1660,2024-03-04,Jus Alpukat,Minuman,7,18500,129500,Cash,Shopee,"Dr. Muni Ardianto, M.Kom.",Pondok Gede
+INV-1661,2024-03-04,Keripik Pisang,Snack,5,12500,62500,E-Wallet,Shopee,R. Kartika Latupono,Bekasi Timur
+INV-1662,2024-03-04,Bakso Aci Frozen,Makanan,10,18500,185000,Cash,Instagram,Dr. Cici Anggriawan,Jatiasih
+INV-1663,2024-03-04,Jus Alpukat,Minuman,9,18500,166500,QRIS,Tokopedia,Rosman Usada,Bekasi Selatan
+INV-1664,2024-03-04,Dimsum Ayam,Makanan,7,25500,178500,E-Wallet,Shopee,"Harsanto Anggraini, S.T.",Pondok Gede
+INV-1665,2024-03-04,Makaroni Pedas,Snack,4,10500,42000,QRIS,Instagram,"Daru Zulkarnain, S.Pt",Jatiwaringin
+INV-1666,2024-03-05,Brownies Kukus,Kue,9,35500,319500,Cash,Offline Store,Rina Mustofa,Bekasi Timur
+INV-1667,2024-03-05,Makaroni Pedas,Snack,6,10500,63000,Cash,Shopee,Mujur Andriani,Jatiwaringin
+INV-1668,2024-03-05,Bakso Aci Frozen,Makanan,6,18500,111000,Transfer Bank,Tokopedia,Iriana Rahayu,Pondok Gede
+INV-1669,2024-03-05,Dimsum Ayam,Makanan,1,25500,25500,Cash,Offline Store,"dr. Eluh Adriansyah, S.E.I",Bekasi Barat
+INV-1670,2024-03-05,Es Kopi Susu,Minuman,3,22500,67500,Transfer Bank,Shopee,Ibun Suartini,Bekasi Barat
+INV-1671,2024-03-05,Dimsum Ayam,Makanan,9,25500,229500,Transfer Bank,Offline Store,Cut Najwa Usamah,Bekasi Barat
+INV-1672,2024-03-05,Jus Alpukat,Minuman,6,18500,111000,Transfer Bank,Shopee,Ida Suwarno,Cibubur
+INV-1673,2024-03-05,Thai Tea,Minuman,6,20500,123000,QRIS,WhatsApp,Betania Pangestu,Bekasi Selatan
+INV-1674,2024-03-05,Thai Tea,Minuman,10,20500,205000,Transfer Bank,Instagram,Dimas Hutagalung,Jatiasih
+INV-1675,2024-03-05,Makaroni Pedas,Snack,5,10500,52500,E-Wallet,Tokopedia,Zalindra Saefullah,Bekasi Timur
+INV-1676,2024-03-06,Bakso Aci Frozen,Makanan,4,18500,74000,Transfer Bank,Tokopedia,Vanesa Natsir,Bekasi Timur
+INV-1677,2024-03-06,Makaroni Pedas,Snack,8,10500,84000,Cash,Offline Store,Tina Maulana,Jatiwaringin
+INV-1678,2024-03-06,Es Kopi Susu,Minuman,3,22500,67500,Transfer Bank,WhatsApp,Puti Uchita Simbolon,Jakarta Timur
+INV-1679,2024-03-06,Bakso Aci Frozen,Makanan,1,18500,18500,Transfer Bank,Tokopedia,Gatra Tarihoran,Pondok Gede
+INV-1680,2024-03-06,Makaroni Pedas,Snack,6,10500,63000,Cash,Instagram,"Drs. Rangga Namaga, M.TI.",Pondok Gede
+INV-1681,2024-03-06,Thai Tea,Minuman,2,20500,41000,Cash,WhatsApp,Dina Firgantoro,Jatibening
+INV-1682,2024-03-07,Keripik Pisang,Snack,7,12500,87500,Cash,Shopee,Tri Tampubolon,Pondok Gede
+INV-1683,2024-03-07,Makaroni Pedas,Snack,10,10500,105000,Transfer Bank,Offline Store,Melinda Wijayanti,Pondok Gede
+INV-1684,2024-03-07,Keripik Pisang,Snack,7,12500,87500,Cash,Shopee,"Hj. Tina Hasanah, S.Pd",Pondok Gede
+INV-1685,2024-03-07,Keripik Pisang,Snack,1,12500,12500,E-Wallet,Offline Store,Sutan Gaiman Santoso,Pondok Gede
+INV-1686,2024-03-07,Bakso Aci Frozen,Makanan,3,18500,55500,Cash,Offline Store,"Tgk. Emong Gunarto, S.E.",Bekasi Barat
+INV-1687,2024-03-07,Es Kopi Susu,Minuman,10,22500,225000,E-Wallet,Shopee,Usyi Kuswandari,Bekasi Timur
+INV-1688,2024-03-07,Rice Bowl Ayam,Makanan,2,30500,61000,Cash,WhatsApp,"R. Ani Yolanda, M.Ak",Pondok Gede
+INV-1689,2024-03-08,Seblak Instan,Makanan,6,15500,93000,QRIS,WhatsApp,"Ana Rahayu, M.Kom.",Pondok Gede
+INV-1690,2024-03-08,Es Kopi Susu,Minuman,4,22500,90000,Cash,WhatsApp,Patricia Ramadan,Jatibening
+INV-1691,2024-03-08,Seblak Instan,Makanan,1,15500,15500,E-Wallet,Instagram,Pia Napitupulu,Jatibening
+INV-1692,2024-03-08,Jus Alpukat,Minuman,3,18500,55500,E-Wallet,Instagram,Daruna Anggraini,Bekasi Barat
+INV-1693,2024-03-08,Rice Bowl Ayam,Makanan,9,30500,274500,QRIS,Instagram,Umi Anggriawan,Jatibening
+INV-1694,2024-03-08,Thai Tea,Minuman,4,20500,82000,E-Wallet,Tokopedia,"Dr. Bakti Mardhiyah, S.Psi",Depok
+INV-1695,2024-03-08,Bakso Aci Frozen,Makanan,5,18500,92500,Cash,WhatsApp,Harjasa Irawan,Jatiwaringin
+INV-1696,2024-03-09,Seblak Instan,Makanan,6,15500,93000,E-Wallet,Shopee,Hana Haryanto,Bekasi Timur
+INV-1697,2024-03-09,Seblak Instan,Makanan,9,15500,139500,Cash,Offline Store,Ajimat Mansur,Jatibening
+INV-1698,2024-03-09,Thai Tea,Minuman,8,20500,164000,E-Wallet,Shopee,Uli Nurdiyanti,Jakarta Timur
+INV-1699,2024-03-09,Thai Tea,Minuman,7,20500,143500,QRIS,Tokopedia,Victoria Prabowo,Jatiasih
+INV-1700,2024-03-09,Rice Bowl Ayam,Makanan,4,30500,122000,E-Wallet,Offline Store,Fitriani Rajasa,Bekasi Barat
+INV-1701,2024-03-09,Makaroni Pedas,Snack,5,10500,52500,Cash,Shopee,Lala Rajata,Bekasi Timur
+INV-1702,2024-03-10,Bakso Aci Frozen,Makanan,7,18500,129500,E-Wallet,Shopee,Puti Titin Yuliarti,Depok
+INV-1703,2024-03-10,Bakso Aci Frozen,Makanan,6,18500,111000,E-Wallet,Tokopedia,Drs. Cici Uyainah,Cibubur
+INV-1704,2024-03-10,Dimsum Ayam,Makanan,10,25500,255000,Transfer Bank,Tokopedia,"R. Prakosa Mandasari, S.Ked",Pondok Gede
+INV-1705,2024-03-10,Bakso Aci Frozen,Makanan,4,18500,74000,Cash,Tokopedia,"Utama Widodo, S.Farm",Pondok Gede
+INV-1706,2024-03-10,Brownies Kukus,Kue,2,35500,71000,E-Wallet,Instagram,"Ir. Olga Siregar, S.Kom",Jatiasih
+INV-1707,2024-03-10,Brownies Kukus,Kue,5,35500,177500,E-Wallet,Shopee,Malika Latupono,Jatiwaringin
+INV-1708,2024-03-11,Jus Alpukat,Minuman,6,18500,111000,E-Wallet,Tokopedia,Karen Aryani,Bekasi Timur
+INV-1709,2024-03-11,Dimsum Ayam,Makanan,8,25500,204000,Cash,Shopee,"Ani Widiastuti, S.I.Kom",Pondok Gede
+INV-1710,2024-03-11,Dimsum Ayam,Makanan,10,25500,255000,Transfer Bank,Tokopedia,Ega Simanjuntak,Pondok Gede
+INV-1711,2024-03-11,Seblak Instan,Makanan,6,15500,93000,E-Wallet,Offline Store,Devi Sihotang,Jatibening
+INV-1712,2024-03-11,Es Kopi Susu,Minuman,9,22500,202500,E-Wallet,Offline Store,Caturangga Nuraini,Jatibening
+INV-1713,2024-03-11,Jus Alpukat,Minuman,9,18500,166500,Transfer Bank,Instagram,Murti Sihotang,Jakarta Timur
+INV-1714,2024-03-11,Dimsum Ayam,Makanan,2,25500,51000,QRIS,Offline Store,"T. Prasetyo Pratiwi, S.Psi",Bekasi Barat
+INV-1715,2024-03-11,Thai Tea,Minuman,9,20500,184500,Transfer Bank,Tokopedia,Raisa Sihombing,Bekasi Barat
+INV-1716,2024-03-11,Brownies Kukus,Kue,3,35500,106500,Transfer Bank,Shopee,"dr. Darimin Rahimah, M.Farm",Pondok Gede
+INV-1717,2024-03-11,Keripik Pisang,Snack,1,12500,12500,QRIS,Instagram,"Nurul Kuswoyo, M.Pd",Pondok Gede
+INV-1718,2024-03-12,Keripik Pisang,Snack,10,12500,125000,Cash,Tokopedia,Gamanto Prasasta,Jatiasih
+INV-1719,2024-03-12,Seblak Instan,Makanan,7,15500,108500,E-Wallet,Offline Store,Sutan Galur Samosir,Jatiasih
+INV-1720,2024-03-12,Rice Bowl Ayam,Makanan,5,30500,152500,E-Wallet,Tokopedia,"Ir. Danuja Megantara, M.Farm",Pondok Gede
+INV-1721,2024-03-12,Thai Tea,Minuman,10,20500,205000,E-Wallet,Tokopedia,Cahyono Yulianti,Pondok Gede
+INV-1722,2024-03-12,Jus Alpukat,Minuman,3,18500,55500,QRIS,Tokopedia,"Tomi Natsir, S.T.",Jakarta Timur
+INV-1723,2024-03-12,Thai Tea,Minuman,2,20500,41000,Cash,Instagram,Elvin Prasasta,Cibubur
+INV-1724,2024-03-12,Dimsum Ayam,Makanan,7,25500,178500,E-Wallet,Tokopedia,Rahmi Napitupulu,Bekasi Timur
+INV-1725,2024-03-12,Keripik Pisang,Snack,5,12500,62500,Transfer Bank,Offline Store,Kamaria Utama,Jakarta Timur
+INV-1726,2024-03-13,Jus Alpukat,Minuman,1,18500,18500,Cash,Shopee,"Vera Kusumo, S.Pt",Bekasi Selatan
+INV-1727,2024-03-13,Bakso Aci Frozen,Makanan,8,18500,148000,Cash,Tokopedia,Cayadi Marbun,Jatibening
+INV-1728,2024-03-13,Rice Bowl Ayam,Makanan,5,30500,152500,Cash,Instagram,Sadina Namaga,Pondok Gede
+INV-1729,2024-03-13,Seblak Instan,Makanan,4,15500,62000,Cash,Instagram,Ophelia Nashiruddin,Pondok Gede
+INV-1730,2024-03-13,Rice Bowl Ayam,Makanan,5,30500,152500,QRIS,Shopee,Hasna Wijayanti,Jatiwaringin
+INV-1731,2024-03-13,Brownies Kukus,Kue,4,35500,142000,E-Wallet,Offline Store,"Saka Novitasari, S.H.",Bekasi Barat
+INV-1732,2024-03-13,Rice Bowl Ayam,Makanan,1,30500,30500,Transfer Bank,Tokopedia,Yani Yulianti,Bekasi Timur
+INV-1733,2024-03-13,Dimsum Ayam,Makanan,9,25500,229500,Transfer Bank,Offline Store,Umay Hasanah,Depok
+INV-1734,2024-03-13,Thai Tea,Minuman,1,20500,20500,Transfer Bank,Shopee,"Zulfa Wahyudin, M.TI.",Pondok Gede
+INV-1735,2024-03-13,Bakso Aci Frozen,Makanan,4,18500,74000,E-Wallet,Tokopedia,"R.M. Kairav Gunawan, S.Gz",Bekasi Timur
+INV-1736,2024-03-13,Rice Bowl Ayam,Makanan,4,30500,122000,Cash,Instagram,Paulin Siregar,Bekasi Timur
+INV-1737,2024-03-13,Makaroni Pedas,Snack,7,10500,73500,QRIS,Shopee,Siti Marpaung,Bekasi Barat
+INV-1738,2024-03-13,Rice Bowl Ayam,Makanan,8,30500,244000,E-Wallet,Shopee,"Ir. Bakidin Waskita, S.I.Kom",Pondok Gede
+INV-1739,2024-03-13,Brownies Kukus,Kue,10,35500,355000,Cash,WhatsApp,dr. Carla Wijaya,Jatiasih
+INV-1740,2024-03-14,Dimsum Ayam,Makanan,2,25500,51000,QRIS,Instagram,Kiandra Simanjuntak,Jatiasih
+INV-1741,2024-03-14,Bakso Aci Frozen,Makanan,3,18500,55500,Transfer Bank,Shopee,Rini Winarno,Jatibening
+INV-1742,2024-03-14,Es Kopi Susu,Minuman,4,22500,90000,E-Wallet,Offline Store,Kasiyah Winarno,Cibubur
+INV-1743,2024-03-14,Bakso Aci Frozen,Makanan,1,18500,18500,Transfer Bank,Shopee,Maria Sudiati,Jatiasih
+INV-1744,2024-03-14,Thai Tea,Minuman,1,20500,20500,Cash,Offline Store,Slamet Narpati,Jatibening
+INV-1745,2024-03-14,Dimsum Ayam,Makanan,5,25500,127500,E-Wallet,WhatsApp,Padmi Napitupulu,Pondok Gede
+INV-1746,2024-03-14,Brownies Kukus,Kue,5,35500,177500,E-Wallet,WhatsApp,Citra Halim,Jakarta Timur
+INV-1747,2024-03-15,Makaroni Pedas,Snack,10,10500,105000,QRIS,Tokopedia,Jinawi Saefullah,Jatiwaringin
+INV-1748,2024-03-15,Makaroni Pedas,Snack,6,10500,63000,Cash,WhatsApp,"Drs. Septi Hardiansyah, S.Sos",Bekasi Barat
+INV-1749,2024-03-15,Seblak Instan,Makanan,8,15500,124000,Cash,WhatsApp,"R.M. Ajimin Kuswoyo, M.Pd",Bekasi Barat
+INV-1750,2024-03-15,Rice Bowl Ayam,Makanan,5,30500,152500,Cash,Shopee,Candrakanta Sudiati,Jatiasih
+INV-1751,2024-03-15,Keripik Pisang,Snack,9,12500,112500,QRIS,Offline Store,Karya Pertiwi,Jatiasih
+INV-1752,2024-03-15,Jus Alpukat,Minuman,6,18500,111000,QRIS,Instagram,"R.M. Elvin Laksita, M.TI.",Bekasi Selatan
+INV-1753,2024-03-15,Dimsum Ayam,Makanan,5,25500,127500,E-Wallet,Instagram,Ifa Farida,Jatiasih
+INV-1754,2024-03-15,Bakso Aci Frozen,Makanan,10,18500,185000,Transfer Bank,WhatsApp,"R.A. Maida Mangunsong, S.E.I",Bekasi Barat
+INV-1755,2024-03-15,Es Kopi Susu,Minuman,9,22500,202500,Cash,Offline Store,Usman Namaga,Bekasi Selatan
+INV-1756,2024-03-15,Dimsum Ayam,Makanan,3,25500,76500,Transfer Bank,WhatsApp,Puput Samosir,Bekasi Timur
+INV-1757,2024-03-15,Seblak Instan,Makanan,8,15500,124000,Cash,Offline Store,Cinta Gunarto,Bekasi Barat
+INV-1758,2024-03-15,Keripik Pisang,Snack,6,12500,75000,Transfer Bank,WhatsApp,Empluk Mangunsong,Jatiasih
+INV-1759,2024-03-15,Es Kopi Susu,Minuman,5,22500,112500,Cash,WhatsApp,Makuta Fujiati,Pondok Gede
+INV-1760,2024-03-15,Dimsum Ayam,Makanan,10,25500,255000,E-Wallet,Tokopedia,Ira Hidayanto,Jatiasih
+INV-1761,2024-03-15,Brownies Kukus,Kue,1,35500,35500,QRIS,Instagram,Irsad Yuniar,Jatiwaringin
+INV-1762,2024-03-16,Makaroni Pedas,Snack,2,10500,21000,Cash,Instagram,dr. Bakda Permata,Bekasi Timur
+INV-1763,2024-03-16,Bakso Aci Frozen,Makanan,3,18500,55500,Transfer Bank,WhatsApp,Heru Maheswara,Jatiwaringin
+INV-1764,2024-03-16,Jus Alpukat,Minuman,10,18500,185000,Transfer Bank,WhatsApp,Kamila Tampubolon,Pondok Gede
+INV-1765,2024-03-16,Keripik Pisang,Snack,2,12500,25000,Cash,Shopee,Rika Setiawan,Bekasi Barat
+INV-1766,2024-03-16,Rice Bowl Ayam,Makanan,1,30500,30500,E-Wallet,WhatsApp,Ir. Olivia Waluyo,Depok
+INV-1767,2024-03-16,Es Kopi Susu,Minuman,3,22500,67500,Transfer Bank,Instagram,Yunita Nugroho,Jatiasih
+INV-1768,2024-03-16,Seblak Instan,Makanan,3,15500,46500,E-Wallet,Instagram,R. Digdaya Utama,Jatibening
+INV-1769,2024-03-16,Jus Alpukat,Minuman,8,18500,148000,QRIS,Tokopedia,Sadina Kusumo,Pondok Gede
+INV-1770,2024-03-17,Es Kopi Susu,Minuman,6,22500,135000,Cash,Offline Store,Dr. Ami Mahendra,Bekasi Selatan
+INV-1771,2024-03-17,Es Kopi Susu,Minuman,1,22500,22500,Transfer Bank,Shopee,Harsana Pradana,Bekasi Timur
+INV-1772,2024-03-17,Rice Bowl Ayam,Makanan,5,30500,152500,QRIS,Instagram,Jamal Pratama,Pondok Gede
+INV-1773,2024-03-17,Makaroni Pedas,Snack,10,10500,105000,Transfer Bank,Tokopedia,Febi Prasetya,Pondok Gede
+INV-1774,2024-03-17,Bakso Aci Frozen,Makanan,5,18500,92500,E-Wallet,Offline Store,Jaeman Laksita,Bekasi Barat
+INV-1775,2024-03-17,Thai Tea,Minuman,9,20500,184500,E-Wallet,Shopee,"Lukman Oktaviani, S.E.",Bekasi Barat
+INV-1776,2024-03-17,Rice Bowl Ayam,Makanan,8,30500,244000,Transfer Bank,Shopee,drg. Zelda Hariyah,Pondok Gede
+INV-1777,2024-03-17,Jus Alpukat,Minuman,1,18500,18500,Transfer Bank,Shopee,dr. Uli Manullang,Bekasi Selatan
+INV-1778,2024-03-17,Es Kopi Susu,Minuman,1,22500,22500,Transfer Bank,Tokopedia,Rizki Farida,Depok
+INV-1779,2024-03-17,Rice Bowl Ayam,Makanan,1,30500,30500,Cash,Offline Store,"R. Pia Sitompul, S.Gz",Bekasi Barat
+INV-1780,2024-03-17,Thai Tea,Minuman,1,20500,20500,QRIS,Tokopedia,Zaenab Usamah,Pondok Gede
+INV-1781,2024-03-17,Bakso Aci Frozen,Makanan,1,18500,18500,E-Wallet,Instagram,"Puspa Aryani, S.Pd",Cibubur
+INV-1782,2024-03-17,Jus Alpukat,Minuman,2,18500,37000,Cash,Instagram,Faizah Setiawan,Bekasi Barat
+INV-1783,2024-03-18,Es Kopi Susu,Minuman,1,22500,22500,E-Wallet,Tokopedia,Sutan Emin Anggriawan,Jatibening
+INV-1784,2024-03-18,Makaroni Pedas,Snack,5,10500,52500,Transfer Bank,Instagram,Emong Wijaya,Bekasi Barat
+INV-1785,2024-03-18,Seblak Instan,Makanan,9,15500,139500,Cash,Tokopedia,"Lintang Siregar, S.Pt",Pondok Gede
+INV-1786,2024-03-18,Seblak Instan,Makanan,8,15500,124000,Transfer Bank,WhatsApp,Puspa Winarsih,Cibubur
+INV-1787,2024-03-18,Makaroni Pedas,Snack,4,10500,42000,E-Wallet,WhatsApp,Cut Rika Saefullah,Bekasi Selatan
+INV-1788,2024-03-18,Keripik Pisang,Snack,1,12500,12500,E-Wallet,Shopee,"Yani Hassanah, S.T.",Pondok Gede
+INV-1789,2024-03-18,Brownies Kukus,Kue,6,35500,213000,QRIS,Tokopedia,dr. Ellis Hutasoit,Bekasi Barat
+INV-1790,2024-03-19,Seblak Instan,Makanan,2,15500,31000,E-Wallet,Shopee,"Ir. Garan Thamrin, M.Farm",Jatiasih
+INV-1791,2024-03-19,Seblak Instan,Makanan,9,15500,139500,QRIS,WhatsApp,Puti Rini Rahimah,Depok
+INV-1792,2024-03-19,Es Kopi Susu,Minuman,8,22500,180000,Cash,Instagram,Maya Permata,Bekasi Barat
+INV-1793,2024-03-19,Bakso Aci Frozen,Makanan,2,18500,37000,QRIS,WhatsApp,"R.A. Sarah Gunawan, S.Sos",Cibubur
+INV-1794,2024-03-19,Rice Bowl Ayam,Makanan,6,30500,183000,QRIS,Tokopedia,R. Opan Anggraini,Cibubur
+INV-1795,2024-03-19,Bakso Aci Frozen,Makanan,1,18500,18500,Transfer Bank,WhatsApp,Dr. Laila Jailani,Pondok Gede
+INV-1796,2024-03-19,Rice Bowl Ayam,Makanan,8,30500,244000,QRIS,WhatsApp,"drg. Cawisono Widiastuti, M.Farm",Jatiwaringin
+INV-1797,2024-03-19,Rice Bowl Ayam,Makanan,3,30500,91500,E-Wallet,Instagram,"Adinata Sudiati, M.TI.",Jatiasih
+INV-1798,2024-03-19,Brownies Kukus,Kue,5,35500,177500,E-Wallet,Instagram,Cemani Hutasoit,Jakarta Timur
+INV-1799,2024-03-19,Keripik Pisang,Snack,2,12500,25000,QRIS,Shopee,Violet Widodo,Bekasi Barat
+INV-1800,2024-03-19,Seblak Instan,Makanan,7,15500,108500,E-Wallet,Offline Store,Dr. Pranata Prakasa,Cibubur
+INV-1801,2024-03-19,Brownies Kukus,Kue,3,35500,106500,Cash,Offline Store,Cayadi Gunawan,Pondok Gede
+INV-1802,2024-03-19,Bakso Aci Frozen,Makanan,3,18500,55500,E-Wallet,Tokopedia,Bakiman Sirait,Pondok Gede
+INV-1803,2024-03-19,Jus Alpukat,Minuman,8,18500,148000,QRIS,WhatsApp,"Dt. Balapati Usada, M.M.",Bekasi Timur
+INV-1804,2024-03-19,Rice Bowl Ayam,Makanan,1,30500,30500,Transfer Bank,WhatsApp,Indra Uwais,Bekasi Selatan
+INV-1805,2024-03-20,Makaroni Pedas,Snack,10,10500,105000,E-Wallet,Shopee,Erik Nuraini,Bekasi Barat
+INV-1806,2024-03-20,Brownies Kukus,Kue,6,35500,213000,Transfer Bank,Offline Store,Eluh Laksita,Pondok Gede
+INV-1807,2024-03-20,Thai Tea,Minuman,1,20500,20500,Transfer Bank,Offline Store,Usyi Fujiati,Bekasi Barat
+INV-1808,2024-03-20,Brownies Kukus,Kue,8,35500,284000,QRIS,Instagram,Dr. Vinsen Haryanto,Jatiasih
+INV-1809,2024-03-20,Rice Bowl Ayam,Makanan,4,30500,122000,Cash,Tokopedia,Upik Maryati,Bekasi Barat
+INV-1810,2024-03-20,Makaroni Pedas,Snack,4,10500,42000,E-Wallet,Instagram,R.M. Eja Nashiruddin,Bekasi Barat
+INV-1811,2024-03-20,Es Kopi Susu,Minuman,2,22500,45000,E-Wallet,Offline Store,Maras Haryanto,Bekasi Barat
+INV-1812,2024-03-20,Brownies Kukus,Kue,2,35500,71000,E-Wallet,WhatsApp,Jane Riyanti,Jatiasih
+INV-1813,2024-03-20,Seblak Instan,Makanan,8,15500,124000,QRIS,Instagram,Lurhur Santoso,Pondok Gede
+INV-1814,2024-03-20,Jus Alpukat,Minuman,1,18500,18500,QRIS,Tokopedia,"Nadine Nugroho, S.Ked",Jatibening
+INV-1815,2024-03-20,Thai Tea,Minuman,10,20500,205000,Transfer Bank,Instagram,Tgk. Karja Waskita,Bekasi Timur
+INV-1816,2024-03-20,Rice Bowl Ayam,Makanan,6,30500,183000,Transfer Bank,Instagram,Icha Santoso,Pondok Gede
+INV-1817,2024-03-20,Rice Bowl Ayam,Makanan,9,30500,274500,E-Wallet,WhatsApp,drg. Tina Aryani,Jatiwaringin
+INV-1818,2024-03-21,Seblak Instan,Makanan,2,15500,31000,QRIS,WhatsApp,"Budi Maryadi, S.E.I",Pondok Gede
+INV-1819,2024-03-21,Rice Bowl Ayam,Makanan,5,30500,152500,Cash,Tokopedia,Tiara Sitorus,Jatiwaringin
+INV-1820,2024-03-21,Bakso Aci Frozen,Makanan,3,18500,55500,Transfer Bank,Instagram,"Sari Pangestu, S.IP",Jatibening
+INV-1821,2024-03-21,Seblak Instan,Makanan,5,15500,77500,Transfer Bank,Tokopedia,Zizi Nugroho,Jatiwaringin
+INV-1822,2024-03-21,Jus Alpukat,Minuman,4,18500,74000,Transfer Bank,WhatsApp,Zaenab Suwarno,Jatiasih
+INV-1823,2024-03-21,Seblak Instan,Makanan,7,15500,108500,QRIS,Instagram,"Vera Utami, M.Pd",Jatibening
+INV-1824,2024-03-21,Brownies Kukus,Kue,10,35500,355000,Transfer Bank,Instagram,Kasiyah Sihotang,Cibubur
+INV-1825,2024-03-21,Bakso Aci Frozen,Makanan,9,18500,166500,E-Wallet,Offline Store,Sabrina Mangunsong,Bekasi Selatan
+INV-1826,2024-03-21,Brownies Kukus,Kue,9,35500,319500,Transfer Bank,Shopee,Warta Zulkarnain,Bekasi Barat
+INV-1827,2024-03-21,Seblak Instan,Makanan,7,15500,108500,Cash,Offline Store,Murti Mahendra,Pondok Gede
+INV-1828,2024-03-21,Jus Alpukat,Minuman,7,18500,129500,Transfer Bank,WhatsApp,Queen Budiyanto,Bekasi Barat
+INV-1829,2024-03-21,Jus Alpukat,Minuman,6,18500,111000,E-Wallet,Shopee,Ikhsan Pradana,Bekasi Timur
+INV-1830,2024-03-22,Jus Alpukat,Minuman,10,18500,185000,Cash,Offline Store,Zahra Salahudin,Cibubur
+INV-1831,2024-03-22,Rice Bowl Ayam,Makanan,9,30500,274500,Transfer Bank,Shopee,Estiawan Padmasari,Cibubur
+INV-1832,2024-03-22,Thai Tea,Minuman,5,20500,102500,Transfer Bank,Shopee,Hasan Melani,Bekasi Barat
+INV-1833,2024-03-22,Makaroni Pedas,Snack,9,10500,94500,QRIS,WhatsApp,"H. Gaiman Susanti, S.Pt",Bekasi Barat
+INV-1834,2024-03-22,Makaroni Pedas,Snack,8,10500,84000,E-Wallet,Offline Store,Diah Napitupulu,Bekasi Barat
+INV-1835,2024-03-22,Dimsum Ayam,Makanan,7,25500,178500,QRIS,Tokopedia,"Devi Safitri, S.Farm",Jatibening
+INV-1836,2024-03-22,Jus Alpukat,Minuman,3,18500,55500,QRIS,Shopee,Dr. Ajimin Melani,Jatiasih
+INV-1837,2024-03-23,Keripik Pisang,Snack,5,12500,62500,Transfer Bank,Tokopedia,Sutan Ikhsan Firgantoro,Bekasi Timur
+INV-1838,2024-03-23,Dimsum Ayam,Makanan,4,25500,102000,QRIS,WhatsApp,"Purwanto Halim, S.Pt",Pondok Gede
+INV-1839,2024-03-23,Brownies Kukus,Kue,2,35500,71000,Transfer Bank,Offline Store,"Aris Purnawati, S.I.Kom",Bekasi Barat
+INV-1840,2024-03-23,Jus Alpukat,Minuman,4,18500,74000,Cash,Tokopedia,"drg. Prasetya Mansur, S.Kom",Jakarta Timur
+INV-1841,2024-03-23,Jus Alpukat,Minuman,7,18500,129500,Cash,Offline Store,drg. Okta Aryani,Jatiasih
+INV-1842,2024-03-23,Bakso Aci Frozen,Makanan,1,18500,18500,Transfer Bank,Offline Store,Tgk. Legawa Sirait,Jatibening
+INV-1843,2024-03-23,Brownies Kukus,Kue,4,35500,142000,Transfer Bank,Shopee,dr. Raharja Suwarno,Bekasi Timur
+INV-1844,2024-03-23,Dimsum Ayam,Makanan,8,25500,204000,QRIS,Shopee,Ilyas Kuswandari,Cibubur
+INV-1845,2024-03-23,Keripik Pisang,Snack,9,12500,112500,E-Wallet,Tokopedia,Yahya Waskita,Cibubur
+INV-1846,2024-03-24,Dimsum Ayam,Makanan,9,25500,229500,Transfer Bank,Shopee,Reksa Hakim,Cibubur
+INV-1847,2024-03-24,Thai Tea,Minuman,5,20500,102500,Cash,Instagram,Dr. Ridwan Prabowo,Jatiasih
+INV-1848,2024-03-24,Keripik Pisang,Snack,1,12500,12500,Cash,Offline Store,"Cakrabirawa Susanti, S.Pt",Jatiasih
+INV-1849,2024-03-24,Bakso Aci Frozen,Makanan,10,18500,185000,E-Wallet,Offline Store,Ilyas Kusumo,Jatibening
+INV-1850,2024-03-24,Makaroni Pedas,Snack,6,10500,63000,Cash,Offline Store,Puti Zelda Winarno,Jatiwaringin
+INV-1851,2024-03-24,Es Kopi Susu,Minuman,3,22500,67500,QRIS,Offline Store,Cut Natalia Laksita,Cibubur
+INV-1852,2024-03-24,Keripik Pisang,Snack,7,12500,87500,E-Wallet,Tokopedia,Cut Amalia Mandala,Pondok Gede
+INV-1853,2024-03-24,Rice Bowl Ayam,Makanan,4,30500,122000,Cash,WhatsApp,R. Rahmat Damanik,Pondok Gede
+INV-1854,2024-03-24,Rice Bowl Ayam,Makanan,5,30500,152500,E-Wallet,Offline Store,Martaka Maryadi,Bekasi Timur
+INV-1855,2024-03-24,Bakso Aci Frozen,Makanan,2,18500,37000,E-Wallet,Shopee,Joko Lestari,Depok
+INV-1856,2024-03-24,Thai Tea,Minuman,10,20500,205000,QRIS,WhatsApp,Putri Wastuti,Bekasi Selatan
+INV-1857,2024-03-25,Seblak Instan,Makanan,7,15500,108500,Cash,Tokopedia,Nurul Nuraini,Jatiwaringin
+INV-1858,2024-03-25,Makaroni Pedas,Snack,6,10500,63000,E-Wallet,Instagram,Rini Sihombing,Jatiasih
+INV-1859,2024-03-25,Bakso Aci Frozen,Makanan,5,18500,92500,Cash,Offline Store,Irfan Pratiwi,Pondok Gede
+INV-1860,2024-03-25,Seblak Instan,Makanan,2,15500,31000,QRIS,Tokopedia,drg. Febi Suryatmi,Bekasi Timur
+INV-1861,2024-03-25,Es Kopi Susu,Minuman,4,22500,90000,QRIS,Shopee,Aslijan Uwais,Cibubur
+INV-1862,2024-03-25,Makaroni Pedas,Snack,7,10500,73500,Transfer Bank,Tokopedia,Hardana Budiman,Bekasi Barat
+INV-1863,2024-03-25,Brownies Kukus,Kue,6,35500,213000,QRIS,Tokopedia,Lantar Anggriawan,Jatibening
+INV-1864,2024-03-25,Bakso Aci Frozen,Makanan,3,18500,55500,QRIS,Offline Store,Kasiran Hutagalung,Depok
+INV-1865,2024-03-25,Es Kopi Susu,Minuman,5,22500,112500,E-Wallet,Instagram,Yance Suryatmi,Pondok Gede
+INV-1866,2024-03-25,Jus Alpukat,Minuman,7,18500,129500,QRIS,Instagram,Gabriella Anggriawan,Jatiwaringin
+INV-1867,2024-03-25,Seblak Instan,Makanan,9,15500,139500,QRIS,Offline Store,Daryani Sihombing,Pondok Gede
+INV-1868,2024-03-26,Seblak Instan,Makanan,6,15500,93000,QRIS,WhatsApp,Patricia Nasyiah,Jatiasih
+INV-1869,2024-03-26,Dimsum Ayam,Makanan,10,25500,255000,Cash,Instagram,"Tantri Pradipta, M.TI.",Pondok Gede
+INV-1870,2024-03-26,Jus Alpukat,Minuman,7,18500,129500,E-Wallet,Shopee,Rahmat Fujiati,Bekasi Barat
+INV-1871,2024-03-26,Makaroni Pedas,Snack,4,10500,42000,E-Wallet,Offline Store,"R.M. Carub Uyainah, S.Gz",Bekasi Timur
+INV-1872,2024-03-26,Dimsum Ayam,Makanan,3,25500,76500,Cash,Tokopedia,"Oni Saptono, M.Farm",Jatiwaringin
+INV-1873,2024-03-27,Makaroni Pedas,Snack,3,10500,31500,QRIS,Tokopedia,Puti Fitriani Firgantoro,Pondok Gede
+INV-1874,2024-03-27,Thai Tea,Minuman,10,20500,205000,QRIS,WhatsApp,Warji Permata,Pondok Gede
+INV-1875,2024-03-27,Es Kopi Susu,Minuman,6,22500,135000,E-Wallet,Offline Store,Viktor Suryatmi,Cibubur
+INV-1876,2024-03-27,Keripik Pisang,Snack,3,12500,37500,Transfer Bank,Offline Store,Sarah Iswahyudi,Bekasi Timur
+INV-1877,2024-03-27,Dimsum Ayam,Makanan,4,25500,102000,Transfer Bank,Offline Store,Umar Puspita,Pondok Gede
+INV-1878,2024-03-27,Bakso Aci Frozen,Makanan,9,18500,166500,QRIS,WhatsApp,Cahyadi Santoso,Depok
+INV-1879,2024-03-27,Seblak Instan,Makanan,5,15500,77500,Transfer Bank,Offline Store,Lembah Napitupulu,Pondok Gede
+INV-1880,2024-03-27,Brownies Kukus,Kue,6,35500,213000,Transfer Bank,Shopee,"H. Hasim Gunarto, M.M.",Bekasi Barat
+INV-1881,2024-03-27,Seblak Instan,Makanan,5,15500,77500,Transfer Bank,WhatsApp,"Dr. Novi Palastri, S.Pt",Pondok Gede
+INV-1882,2024-03-27,Brownies Kukus,Kue,8,35500,284000,Cash,Offline Store,"Yani Gunarto, S.Pt",Pondok Gede
+INV-1883,2024-03-27,Keripik Pisang,Snack,10,12500,125000,Cash,WhatsApp,"Sutan Prasetyo Pertiwi, S.H.",Pondok Gede
+INV-1884,2024-03-27,Jus Alpukat,Minuman,3,18500,55500,Cash,Shopee,Zelda Wacana,Jatiwaringin
+INV-1885,2024-03-27,Es Kopi Susu,Minuman,7,22500,157500,Cash,Shopee,"Hj. Mutia Yuliarti, S.Pt",Depok
+INV-1886,2024-03-28,Rice Bowl Ayam,Makanan,8,30500,244000,E-Wallet,WhatsApp,Betania Farida,Jatibening
+INV-1887,2024-03-28,Dimsum Ayam,Makanan,8,25500,204000,QRIS,Shopee,"Halima Anggraini, S.Farm",Pondok Gede
+INV-1888,2024-03-28,Thai Tea,Minuman,2,20500,41000,Transfer Bank,Offline Store,Aisyah Namaga,Bekasi Barat
+INV-1889,2024-03-28,Es Kopi Susu,Minuman,5,22500,112500,QRIS,Tokopedia,Dr. Puput Zulaika,Jatiasih
+INV-1890,2024-03-28,Makaroni Pedas,Snack,1,10500,10500,E-Wallet,Offline Store,Rina Wibowo,Bekasi Timur
+INV-1891,2024-03-28,Es Kopi Susu,Minuman,1,22500,22500,Cash,Offline Store,Damu Lailasari,Bekasi Timur
+INV-1892,2024-03-28,Makaroni Pedas,Snack,8,10500,84000,Cash,Instagram,Widya Wibisono,Jatiasih
+INV-1893,2024-03-28,Es Kopi Susu,Minuman,10,22500,225000,Transfer Bank,Instagram,Drs. Darmana Nugroho,Pondok Gede
+INV-1894,2024-03-28,Makaroni Pedas,Snack,9,10500,94500,E-Wallet,WhatsApp,Ir. Shania Padmasari,Cibubur
+INV-1895,2024-03-28,Makaroni Pedas,Snack,1,10500,10500,Transfer Bank,Offline Store,Cinta Marpaung,Pondok Gede
+INV-1896,2024-03-28,Keripik Pisang,Snack,8,12500,100000,Transfer Bank,Offline Store,Ciaobella Nashiruddin,Jatiasih
+INV-1897,2024-03-28,Thai Tea,Minuman,3,20500,61500,Cash,Tokopedia,Tgk. Diah Hassanah,Bekasi Barat
+INV-1898,2024-03-28,Es Kopi Susu,Minuman,8,22500,180000,QRIS,WhatsApp,dr. Sabrina Utami,Pondok Gede
+INV-1899,2024-03-28,Rice Bowl Ayam,Makanan,4,30500,122000,Transfer Bank,Offline Store,"Dt. Karya Hutagalung, S.T.",Bekasi Timur
+INV-1900,2024-03-28,Rice Bowl Ayam,Makanan,7,30500,213500,E-Wallet,Tokopedia,Rahman Maheswara,Bekasi Timur
+INV-1901,2024-03-29,Rice Bowl Ayam,Makanan,2,30500,61000,Cash,WhatsApp,Baktiadi Marpaung,Bekasi Selatan
+INV-1902,2024-03-29,Thai Tea,Minuman,9,20500,184500,Transfer Bank,Instagram,drg. Balangga Natsir,Pondok Gede
+INV-1903,2024-03-29,Jus Alpukat,Minuman,6,18500,111000,QRIS,Offline Store,Elisa Mulyani,Bekasi Selatan
+INV-1904,2024-03-29,Dimsum Ayam,Makanan,7,25500,178500,E-Wallet,WhatsApp,Eman Permata,Bekasi Timur
+INV-1905,2024-03-29,Rice Bowl Ayam,Makanan,8,30500,244000,QRIS,Offline Store,Galuh Safitri,Pondok Gede
+INV-1906,2024-03-30,Brownies Kukus,Kue,3,35500,106500,QRIS,Offline Store,"Dr. Gamblang Sudiati, S.E.",Bekasi Timur
+INV-1907,2024-03-30,Dimsum Ayam,Makanan,4,25500,102000,Transfer Bank,Shopee,Marwata Adriansyah,Jatibening
+INV-1908,2024-03-30,Rice Bowl Ayam,Makanan,10,30500,305000,Transfer Bank,Instagram,Wardi Maulana,Jatiwaringin
+INV-1909,2024-03-30,Rice Bowl Ayam,Makanan,2,30500,61000,E-Wallet,Instagram,Rachel Maryati,Pondok Gede
+INV-1910,2024-03-30,Es Kopi Susu,Minuman,10,22500,225000,E-Wallet,Tokopedia,Hj. Juli Napitupulu,Bekasi Timur
+INV-1911,2024-03-30,Es Kopi Susu,Minuman,1,22500,22500,Transfer Bank,Shopee,Fathonah Salahudin,Bekasi Barat
+INV-1912,2024-03-30,Makaroni Pedas,Snack,1,10500,10500,Transfer Bank,Tokopedia,Dt. Kunthara Ramadan,Depok
+INV-1913,2024-03-31,Dimsum Ayam,Makanan,3,25500,76500,E-Wallet,Offline Store,"Diah Rahimah, M.Kom.",Pondok Gede
+INV-1914,2024-03-31,Thai Tea,Minuman,1,20500,20500,QRIS,Shopee,Dt. Mahesa Saragih,Jatiwaringin
+INV-1915,2024-03-31,Brownies Kukus,Kue,10,35500,355000,E-Wallet,Shopee,Alika Widiastuti,Bekasi Timur
+INV-1916,2024-03-31,Es Kopi Susu,Minuman,7,22500,157500,Transfer Bank,Offline Store,Clara Marpaung,Jatiasih
+INV-1917,2024-03-31,Keripik Pisang,Snack,10,12500,125000,Cash,Shopee,"Yance Megantara, M.Farm",Bekasi Timur
+INV-1918,2024-03-31,Rice Bowl Ayam,Makanan,8,30500,244000,QRIS,Shopee,Ian Kuswoyo,Bekasi Timur
+INV-1919,2024-03-31,Jus Alpukat,Minuman,7,18500,129500,QRIS,Tokopedia,"dr. Humaira Handayani, S.Kom",Jatibening
+INV-1920,2024-04-01,Makaroni Pedas,Snack,9,10500,94500,Transfer Bank,Offline Store,Garang Rajasa,Jatibening
+INV-1921,2024-04-01,Seblak Instan,Makanan,3,15500,46500,QRIS,Offline Store,"Sabrina Firmansyah, S.Ked",Bekasi Timur
+INV-1922,2024-04-01,Makaroni Pedas,Snack,2,10500,21000,E-Wallet,Shopee,Hasan Prabowo,Cibubur
+INV-1923,2024-04-01,Thai Tea,Minuman,9,20500,184500,E-Wallet,Offline Store,Dr. Puji Wahyuni,Bekasi Timur
+INV-1924,2024-04-01,Jus Alpukat,Minuman,6,18500,111000,E-Wallet,Shopee,Ulva Marpaung,Depok
+INV-1925,2024-04-01,Brownies Kukus,Kue,7,35500,248500,QRIS,Instagram,R. Zulfa Napitupulu,Bekasi Timur
+INV-1926,2024-04-01,Keripik Pisang,Snack,5,12500,62500,Transfer Bank,Tokopedia,Yani Pradana,Jatiasih
+INV-1927,2024-04-01,Dimsum Ayam,Makanan,10,25500,255000,E-Wallet,WhatsApp,"Hardi Anggraini, S.Farm",Bekasi Barat
+INV-1928,2024-04-02,Bakso Aci Frozen,Makanan,1,18500,18500,QRIS,Offline Store,Banawa Simanjuntak,Bekasi Timur
+INV-1929,2024-04-02,Bakso Aci Frozen,Makanan,7,18500,129500,Cash,Instagram,Prakosa Napitupulu,Jatibening
+INV-1930,2024-04-02,Rice Bowl Ayam,Makanan,2,30500,61000,E-Wallet,Offline Store,Tgk. Lasmanto Dabukke,Pondok Gede
+INV-1931,2024-04-02,Dimsum Ayam,Makanan,5,25500,127500,E-Wallet,Offline Store,Alika Kuswandari,Pondok Gede
+INV-1932,2024-04-02,Rice Bowl Ayam,Makanan,10,30500,305000,E-Wallet,Shopee,Danang Puspita,Jatiwaringin
+INV-1933,2024-04-02,Jus Alpukat,Minuman,9,18500,166500,E-Wallet,Shopee,"drg. Ivan Sihombing, S.Pt",Pondok Gede
+INV-1934,2024-04-02,Rice Bowl Ayam,Makanan,9,30500,274500,E-Wallet,WhatsApp,Maida Marpaung,Pondok Gede
+INV-1935,2024-04-02,Dimsum Ayam,Makanan,10,25500,255000,E-Wallet,Shopee,"Iriana Prasasta, S.Sos",Bekasi Barat
+INV-1936,2024-04-03,Seblak Instan,Makanan,4,15500,62000,Transfer Bank,Tokopedia,"Ir. Zalindra Lazuardi, S.Kom",Bekasi Selatan
+INV-1937,2024-04-03,Es Kopi Susu,Minuman,9,22500,202500,Cash,Offline Store,R. Nurul Prasetya,Bekasi Barat
+INV-1938,2024-04-03,Thai Tea,Minuman,1,20500,20500,E-Wallet,Tokopedia,R.M. Prayoga Simbolon,Depok
+INV-1939,2024-04-03,Seblak Instan,Makanan,3,15500,46500,E-Wallet,Tokopedia,Karimah Hutasoit,Cibubur
+INV-1940,2024-04-03,Seblak Instan,Makanan,5,15500,77500,Cash,Tokopedia,Yunita Dabukke,Pondok Gede
+INV-1941,2024-04-03,Thai Tea,Minuman,1,20500,20500,E-Wallet,Offline Store,Budi Nugroho,Cibubur
+INV-1942,2024-04-03,Makaroni Pedas,Snack,5,10500,52500,QRIS,Shopee,Dr. Jasmani Yulianti,Bekasi Barat
+INV-1943,2024-04-03,Brownies Kukus,Kue,8,35500,284000,Transfer Bank,Offline Store,"Ir. Hasna Kuswandari, M.Farm",Jatiwaringin
+INV-1944,2024-04-03,Dimsum Ayam,Makanan,4,25500,102000,Transfer Bank,Offline Store,"Gabriella Suartini, M.Pd",Jatiwaringin
+INV-1945,2024-04-03,Keripik Pisang,Snack,1,12500,12500,Transfer Bank,Tokopedia,Eka Megantara,Jatiasih
+INV-1946,2024-04-03,Keripik Pisang,Snack,2,12500,25000,E-Wallet,WhatsApp,Erik Palastri,Pondok Gede
+INV-1947,2024-04-03,Jus Alpukat,Minuman,7,18500,129500,Transfer Bank,Offline Store,"Julia Purwanti, S.T.",Jakarta Timur
+INV-1948,2024-04-03,Bakso Aci Frozen,Makanan,2,18500,37000,Cash,Offline Store,"Puti Eli Puspita, M.Farm",Pondok Gede
+INV-1949,2024-04-03,Thai Tea,Minuman,6,20500,123000,Cash,Shopee,"Eko Safitri, S.I.Kom",Jakarta Timur
+INV-1950,2024-04-03,Thai Tea,Minuman,4,20500,82000,E-Wallet,Offline Store,Cinta Nasyiah,Cibubur
+INV-1951,2024-04-04,Dimsum Ayam,Makanan,3,25500,76500,QRIS,Offline Store,Janet Pradana,Jatibening
+INV-1952,2024-04-04,Seblak Instan,Makanan,9,15500,139500,Cash,Tokopedia,"R. Hartana Purnawati, S.E.I",Bekasi Selatan
+INV-1953,2024-04-04,Makaroni Pedas,Snack,5,10500,52500,Cash,Instagram,Indah Dongoran,Jakarta Timur
+INV-1954,2024-04-04,Jus Alpukat,Minuman,10,18500,185000,Transfer Bank,WhatsApp,"drg. Ciaobella Mansur, S.Pt",Jatiwaringin
+INV-1955,2024-04-04,Brownies Kukus,Kue,8,35500,284000,QRIS,Instagram,Zelaya Maryadi,Jatiasih
+INV-1956,2024-04-05,Dimsum Ayam,Makanan,2,25500,51000,Transfer Bank,Shopee,Fathonah Dabukke,Jatiwaringin
+INV-1957,2024-04-05,Rice Bowl Ayam,Makanan,7,30500,213500,QRIS,WhatsApp,Banawi Simanjuntak,Pondok Gede
+INV-1958,2024-04-05,Es Kopi Susu,Minuman,5,22500,112500,E-Wallet,WhatsApp,"Jaeman Aryani, M.Kom.",Bekasi Barat
+INV-1959,2024-04-05,Seblak Instan,Makanan,9,15500,139500,E-Wallet,WhatsApp,Maida Maheswara,Bekasi Barat
+INV-1960,2024-04-05,Rice Bowl Ayam,Makanan,4,30500,122000,Cash,Shopee,"Salimah Natsir, S.Gz",Jatibening
+INV-1961,2024-04-05,Es Kopi Susu,Minuman,8,22500,180000,Transfer Bank,Shopee,Dt. Pranata Utami,Jatibening
+INV-1962,2024-04-06,Es Kopi Susu,Minuman,4,22500,90000,Transfer Bank,Offline Store,Galar Yuliarti,Bekasi Timur
+INV-1963,2024-04-06,Rice Bowl Ayam,Makanan,3,30500,91500,QRIS,Tokopedia,Maimunah Kuswoyo,Cibubur
+INV-1964,2024-04-06,Brownies Kukus,Kue,10,35500,355000,QRIS,Instagram,Ir. Banara Habibi,Jakarta Timur
+INV-1965,2024-04-06,Rice Bowl Ayam,Makanan,10,30500,305000,E-Wallet,Offline Store,"Maryadi Sitompul, M.Farm",Pondok Gede
+INV-1966,2024-04-06,Dimsum Ayam,Makanan,8,25500,204000,Cash,Instagram,Estiawan Mardhiyah,Pondok Gede
+INV-1967,2024-04-06,Es Kopi Susu,Minuman,10,22500,225000,QRIS,Offline Store,Rosman Hasanah,Pondok Gede
+INV-1968,2024-04-06,Jus Alpukat,Minuman,8,18500,148000,QRIS,Offline Store,Tgk. Maida Sihombing,Depok
+INV-1969,2024-04-06,Rice Bowl Ayam,Makanan,7,30500,213500,E-Wallet,Tokopedia,"Nyana Wibowo, S.E.",Bekasi Timur
+INV-1970,2024-04-06,Makaroni Pedas,Snack,8,10500,84000,QRIS,Tokopedia,Zalindra Budiyanto,Depok
+INV-1971,2024-04-07,Es Kopi Susu,Minuman,7,22500,157500,QRIS,WhatsApp,Rina Handayani,Pondok Gede
+INV-1972,2024-04-07,Rice Bowl Ayam,Makanan,10,30500,305000,Transfer Bank,Offline Store,"Tgk. Wakiman Wulandari, S.Ked",Pondok Gede
+INV-1973,2024-04-07,Dimsum Ayam,Makanan,4,25500,102000,E-Wallet,Offline Store,"Sutan Xanana Pranowo, S.H.",Cibubur
+INV-1974,2024-04-07,Rice Bowl Ayam,Makanan,6,30500,183000,E-Wallet,Instagram,"drg. Joko Prabowo, S.Pt",Depok
+INV-1975,2024-04-07,Es Kopi Susu,Minuman,7,22500,157500,Cash,Instagram,drg. Kayla Anggriawan,Jatiasih
+INV-1976,2024-04-07,Dimsum Ayam,Makanan,8,25500,204000,Transfer Bank,Offline Store,"Michelle Maryati, S.Gz",Jatiasih
+INV-1977,2024-04-07,Es Kopi Susu,Minuman,2,22500,45000,Transfer Bank,Offline Store,Sarah Wastuti,Pondok Gede
+INV-1978,2024-04-07,Jus Alpukat,Minuman,7,18500,129500,Transfer Bank,Shopee,Zahra Hartati,Jakarta Timur
+INV-1979,2024-04-07,Brownies Kukus,Kue,1,35500,35500,E-Wallet,Instagram,Warta Pudjiastuti,Jatiasih
+INV-1980,2024-04-07,Keripik Pisang,Snack,9,12500,112500,Cash,Instagram,"R.A. Ida Laksmiwati, S.Psi",Bekasi Barat
+INV-1981,2024-04-07,Dimsum Ayam,Makanan,5,25500,127500,QRIS,Instagram,Drs. Rachel Thamrin,Pondok Gede
+INV-1982,2024-04-07,Seblak Instan,Makanan,3,15500,46500,Transfer Bank,WhatsApp,T. Asmuni Widiastuti,Depok
+INV-1983,2024-04-07,Brownies Kukus,Kue,2,35500,71000,Cash,WhatsApp,"Tgk. Hani Siregar, S.Pt",Pondok Gede
+INV-1984,2024-04-07,Rice Bowl Ayam,Makanan,6,30500,183000,Cash,WhatsApp,Halim Prayoga,Bekasi Barat
+INV-1985,2024-04-07,Bakso Aci Frozen,Makanan,7,18500,129500,Cash,Offline Store,Drs. Umar Nasyidah,Jatibening
+INV-1986,2024-04-08,Thai Tea,Minuman,10,20500,205000,Transfer Bank,WhatsApp,"Jasmin Marpaung, S.Pt",Jatiwaringin
+INV-1987,2024-04-08,Rice Bowl Ayam,Makanan,6,30500,183000,E-Wallet,Instagram,"dr. Anggabaya Ramadan, S.E.",Jakarta Timur
+INV-1988,2024-04-08,Seblak Instan,Makanan,7,15500,108500,E-Wallet,Shopee,Joko Usada,Jatiasih
+INV-1989,2024-04-08,Keripik Pisang,Snack,6,12500,75000,E-Wallet,Tokopedia,Kezia Mayasari,Jatiwaringin
+INV-1990,2024-04-08,Seblak Instan,Makanan,3,15500,46500,Transfer Bank,WhatsApp,Karta Yuliarti,Pondok Gede
+INV-1991,2024-04-08,Rice Bowl Ayam,Makanan,5,30500,152500,E-Wallet,WhatsApp,"Maman Yolanda, S.Pt",Jatiasih
+INV-1992,2024-04-08,Brownies Kukus,Kue,6,35500,213000,E-Wallet,Instagram,Naradi Hastuti,Pondok Gede
+INV-1993,2024-04-08,Keripik Pisang,Snack,3,12500,37500,Transfer Bank,Shopee,"Surya Najmudin, S.H.",Bekasi Barat
+INV-1994,2024-04-09,Dimsum Ayam,Makanan,2,25500,51000,Transfer Bank,Instagram,Kasiran Laksmiwati,Jatiasih
+INV-1995,2024-04-09,Seblak Instan,Makanan,2,15500,31000,E-Wallet,Offline Store,"Drs. Halima Tamba, S.T.",Jakarta Timur
+INV-1996,2024-04-09,Bakso Aci Frozen,Makanan,1,18500,18500,QRIS,Tokopedia,Bahuraksa Tarihoran,Pondok Gede
+INV-1997,2024-04-09,Dimsum Ayam,Makanan,10,25500,255000,QRIS,Instagram,Nadia Usamah,Jatiasih
+INV-1998,2024-04-09,Dimsum Ayam,Makanan,4,25500,102000,Cash,Instagram,Shakila Samosir,Bekasi Barat
+INV-1999,2024-04-09,Keripik Pisang,Snack,3,12500,37500,Transfer Bank,Tokopedia,"Vera Wijaya, S.Psi",Jakarta Timur
+INV-2000,2024-04-09,Bakso Aci Frozen,Makanan,6,18500,111000,E-Wallet,Instagram,Sarah Prastuti,Cibubur
